@@ -1,0 +1,1005 @@
+,address,agent,baths_full,baths_half,bedrooms,broker,city,garage,lot_size,photos,price,property_type,sqft,zip_code
+1,505 Cheshire Dr,2047335,2,1,4,712753,Bloomington,2,-1.0,30,219900,Single Family Home,2939.0,61704
+2,703 E Washington St,1613798,2,1,6,1571726,Bloomington,1,-1.0,30,175000,Single Family Home,3889.0,61701
+3,1510 Paddington Dr,1193279,2,1,3,1571726,Bloomington,2,-1.0,30,204900,Single Family Home,3228.0,61704
+4,1003 Maple St,7995,2,0,3,3054550,Bloomington,1,-1.0,30,125000,Single Family Home,1888.0,61701
+5,16 Derby Way,1237791,3,1,4,1295017,Bloomington,3,-1.0,26,419900,Single Family Home,4862.0,61704
+6,1509 E Washington St,69045,1,1,4,1295017,Bloomington,2,-1.0,24,187000,Single Family Home,3072.0,61701
+7,1033 E Front St,2047335,2,0,3,712753,Bloomington,4,-1.0,24,142900,Single Family Home,2802.0,61701
+8,2109 Case Dr,1193279,3,1,3,1571726,Bloomington,2,-1.0,19,169900,Single Family Home,2505.0,61701
+9,7 Lavender Ln,1571761,3,1,4,1571726,Bloomington,3,-1.0,30,545000,Single Family Home,5090.0,61704
+10,1411 Cloud St,950922,1,0,3,1207437,Bloomington,2,-1.0,30,129900,Single Family Home,2932.0,61701
+11,304 Goldenrod Rd,860512,2,1,3,712753,Bloomington,2,-1.0,24,177500,Single Family Home,2515.0,61704
+12,2711 Crooked Creek Rd,1207544,4,1,5,1207437,Bloomington,3,-1.0,1,498900,Single Family Home,5388.0,61705
+13,36 Pembrook Cir,1231308,2,1,4,1295017,Bloomington,2,-1.0,30,169900,Single Family Home,2913.0,61704
+14,3 Litta Ct,1295102,3,1,5,1295017,Bloomington,3,-1.0,30,379900,Single Family Home,3780.0,61704
+15,2005 Woodhavens Dr,1194290,2,1,3,1571726,Bloomington,2,-1.0,30,155000,Single Family Home,2080.0,61701
+16,2719 Kolby Ct,1200611,3,1,4,1571726,Bloomington,3,-1.0,30,269000,Single Family Home,4039.0,61704
+17,35 Pembrook Cir,7995,2,2,4,3054550,Bloomington,2,-1.0,30,197000,Single Family Home,2546.0,61704
+18,2913 Conlor Dr,1207553,3,0,3,712753,Bloomington,2,7841.0,24,209900,Single Family Home,2450.0,61704
+19,24 Vermont Ave,43657,2,1,3,1207437,Bloomington,2,-1.0,20,147900,Single Family Home,2304.0,61701
+20,718 E Lincoln St,1207547,1,0,1,1207437,Bloomington,1,-1.0,1,22000,Single Family Home,544.0,61701
+21,2808 Morningside Dr,182757,3,1,4,1571726,Bloomington,2,-1.0,30,209000,Single Family Home,3934.0,61704
+22,1304 Cashel Dr,1855850,2,1,4,1280142,Bloomington,3,-1.0,30,215000,Single Family Home,3433.0,61704
+23,10 Conway Cir,1986101,3,1,5,1295017,Bloomington,3,-1.0,30,305000,Single Family Home,3766.0,61704
+24,13 Cashel Dr,744586,3,1,4,3054550,Bloomington,2,-1.0,30,239900,Single Family Home,3120.0,61704
+25,3906 Shasta Dr,7995,3,0,4,3054550,Bloomington,2,-1.0,30,174900,Single Family Home,2249.0,61705
+26,1411 Mill Creek Rd,1571756,2,1,4,712753,Bloomington,2,-1.0,30,199900,Single Family Home,1720.0,61704
+27,9571 Crossbow Dr,283157,3,1,5,1207437,Bloomington,3,88426.79999999997,30,489999,Single Family Home,4424.0,61705
+28,2715 Rocksbury Dr,4784,2,0,4,1295017,Bloomington,2,-1.0,21,148000,Single Family Home,1424.0,61705
+29,6 Linnwood St,1231308,1,0,3,1295017,Bloomington,1,-1.0,20,110000,Single Family Home,2464.0,61701
+30,2209 Windsor Ct,471011,2,1,4,1295017,Bloomington,3,25264.8,17,146500,Single Family Home,3668.0,61705
+31,610 S McClun St,1805170,2,0,3,1295017,Bloomington,1,-1.0,15,109900,Single Family Home,3104.0,61701
+32,2717 Rocksbury Dr,1501366,2,0,4,3054550,Bloomington,2,-1.0,13,135000,Single Family Home,2020.0,61705
+33,614 S McClun St,471011,1,0,2,1295017,Bloomington,2,-1.0,13,24900,Single Family Home,1920.0,61701
+34,1223 Dogwood Ln,921510,1,0,3,-1,Bloomington,2,6970.0,11,89900,Single Family Home,1073.0,61704
+38,1004 N Livingston St,921510,1,1,3,-1,Bloomington,1,5663.0,1,38900,Single Family Home,2485.0,61701
+39,207 Maizefield Ave,486538,1,1,3,-1,Bloomington,2,-1.0,20,129900,Single Family Home,2128.0,61701
+40,1412 E Olive St,1571738,2,1,4,1571726,Bloomington,2,-1.0,2,176900,Single Family Home,2436.0,61701
+41,47 Crista Ann Ct,1295118,3,0,4,1295017,Bloomington,2,-1.0,30,314900,Single Family Home,4170.0,61704
+42,503 Watford Dr,182757,2,1,3,1571726,Bloomington,2,-1.0,30,307500,Single Family Home,3546.0,61704
+43,20 Gloucester Cir,744586,2,1,4,3054550,Bloomington,2,-1.0,30,224900,Single Family Home,3484.0,61704
+44,1312 Longford Ln,7995,2,1,5,3054550,Bloomington,3,-1.0,30,289900,Single Family Home,3213.0,61704
+46,708 S Lee St,5295,1,0,2,1207437,Bloomington,1,-1.0,20,72900,Single Family Home,2508.0,61701
+47,703 S Mercer Ave,1440163,3,1,5,1571726,Bloomington,3,-1.0,13,467900,Single Family Home,4197.0,61701
+50,1607 E Washington St,744586,2,1,3,3054550,Bloomington,2,-1.0,30,279900,Single Family Home,2842.0,61701
+51,3311 Spahn Ln,15043,2,2,4,1295017,Bloomington,3,-1.0,30,264900,Single Family Home,4283.0,61704
+52,5 Stoney Ct,2031028,3,2,5,1571726,Bloomington,3,-1.0,30,799000,Single Family Home,6264.0,61704
+53,8372 Medinah Dr,1253576,3,1,4,1207437,Bloomington,2,-1.0,30,719900,Single Family Home,6400.0,61705
+54,2009 E Oakland Ave,591989,1,1,3,1280142,Bloomington,2,-1.0,29,200000,Single Family Home,5955.0,61701
+55,14121/2 W Locust,1301728,2,0,4,1280142,Bloomington,1,-1.0,28,115000,Single Family Home,2105.0,61701
+56,2513 W Market St,1694648,2,1,4,3054550,Bloomington,2,15245.999999999998,26,164900,Single Family Home,2452.0,61705
+57,15 Andy Ct,523649,2,0,3,1295017,Bloomington,2,-1.0,23,159900,Single Family Home,2472.0,61704
+58,21 Andy Ct,1295099,2,0,3,1295017,Bloomington,2,-1.0,21,139900,Single Family Home,1430.0,61704
+59,1107 N Western Ave,1231308,1,0,2,1295017,Bloomington,2,-1.0,20,114900,Single Family Home,1436.0,61701
+60,1211 N Lee St,1730158,1,0,2,712753,Bloomington,1,-1.0,14,66000,Single Family Home,1912.0,61701
+61,703 S Allin St,1571756,1,0,2,712753,Bloomington,1,-1.0,10,35900,Single Family Home,1798.0,61701
+62,2514 Bunn St,1548431,1,1,3,1280142,Bloomington,3,-1.0,8,95000,Single Family Home,1424.0,61704
+63,1401 E Grove St,430485,2,0,3,3054550,Bloomington,2,-1.0,30,233000,Single Family Home,2724.0,61701
+64,1512 Sweetbriar Dr,1295099,2,1,4,1295017,Bloomington,2,-1.0,30,299000,Single Family Home,3548.0,61701
+65,1602 Myra Ln,1376376,3,1,5,1295017,Bloomington,2,-1.0,30,258800,Single Family Home,3220.0,61704
+66,10 Oakland Ct,523674,2,0,3,712753,Bloomington,1,-1.0,30,157000,Single Family Home,2100.0,61701
+67,3607 Ballyford Dr,7995,2,1,3,3054550,Bloomington,2,-1.0,30,169900,Single Family Home,2200.0,61704
+68,5 Prairie Vista Ct,1263684,3,0,5,1571726,Bloomington,2,-1.0,28,349900,Single Family Home,3882.0,61704
+69,7779 Old Peoria Rd,1263684,3,0,3,1571726,Bloomington,3,50529.6,28,224900,Single Family Home,3787.0,61705
+70,1310 S Madison St,-1,1,0,3,-1,Bloomington,1,4792.0,18,103000,Single Family Home,988.0,61701
+71,206 N Mason St,1193279,2,0,2,1571726,Bloomington,1,-1.0,15,45500,Single Family Home,2298.0,61701
+72,303 S Morris Ave,1571756,2,0,3,712753,Bloomington,2,-1.0,9,29900,Single Family Home,2434.0,61701
+73,3028 Ann Dr,2101837,3,0,3,1295017,Bloomington,2,-1.0,30,169900,Single Family Home,1953.0,61704
+74,2501 Yorktown Dr,1301728,3,1,4,1280142,Bloomington,2,-1.0,30,225000,Single Family Home,2958.0,61704
+75,315 Garfield Dr,1301728,2,1,4,1280142,Bloomington,2,-1.0,30,159900,Single Family Home,1835.0,61701
+76,107 Ruth Rd,1416095,2,1,5,1571726,Bloomington,2,-1.0,30,209900,Single Family Home,4396.0,61701
+77,3020 E Oakland Ave,2267191,3,0,3,1280142,Bloomington,3,43560.0,28,319900,Single Family Home,3444.0,61704
+78,2205 Gravenhurst Dr,1855850,3,0,5,1280142,Bloomington,2,-1.0,28,192500,Single Family Home,2720.0,61705
+79,3314 Barrington Rd,1222389,2,2,4,1280142,Bloomington,3,-1.0,28,244900,Single Family Home,3767.0,61704
+80,12 Lone Oak Ct,523649,2,1,4,1295017,Bloomington,2,-1.0,26,188900,Single Family Home,2829.0,61705
+81,1301 Mount Vernon Dr,523649,1,0,3,1295017,Bloomington,2,-1.0,23,114900,Single Family Home,1844.0,61704
+82,3106 Wisteria Ln,692040,3,1,5,1295017,Bloomington,3,-1.0,30,347900,Single Family Home,4563.0,61704
+83,2109 Foxtail Rd,111130,3,1,3,1207437,Bloomington,3,-1.0,30,384900,Single Family Home,5098.0,61704
+84,3605 Matthew Dr,1263684,3,1,5,1571726,Bloomington,3,-1.0,27,314900,Single Family Home,3894.0,61704
+85,2806 Hubbard Dr,1329957,4,1,5,1571726,Bloomington,3,-1.0,30,359900,Single Family Home,4740.0,61704
+86,1107 Woodbury Pl,159571,2,0,4,1571726,Bloomington,1,-1.0,24,104900,Single Family Home,1920.0,61701
+87,11 Brookline Ct,1207563,3,1,5,1207437,Bloomington,3,-1.0,23,319900,Single Family Home,3909.0,61705
+88,1219 E Oakland Ave,1887422,2,0,2,1571726,Bloomington,2,-1.0,21,114900,Single Family Home,1880.0,61701
+90,1306 W Wood St,1544358,2,0,3,-1,Bloomington,1,-1.0,17,85500,Single Family Home,1082.0,61701
+91,9 Brookline Ct,1295089,3,1,4,1295017,Bloomington,3,-1.0,30,325000,Single Family Home,3666.0,61705
+92,2207 Yarrow St,29336,3,1,4,1571726,Bloomington,3,-1.0,30,399900,Single Family Home,4389.0,61704
+93,419 Willard Ave,1292818,1,1,3,1295017,Bloomington,2,-1.0,30,147900,Single Family Home,2430.0,61701
+94,3103 Carrington Ln,7995,3,1,5,3054550,Bloomington,3,-1.0,30,325000,Single Family Home,4336.0,61705
+95,1222 Riviera Rd,21881,2,1,3,1571726,Bloomington,2,-1.0,24,129900,Single Family Home,1969.0,61701
+97,1613 Six Points Rd,2705739,1,0,4,-1,Bloomington,2,523155.6,1,289000,Single Family Home,2100.0,61701
+98,2807 Park Ridge Rd,1416095,2,1,4,1571726,Bloomington,3,-1.0,30,264900,Single Family Home,4042.0,61704
+99,3120 Providence Dr,7995,2,1,4,3054550,Bloomington,2,-1.0,30,223500,Single Family Home,3493.0,61704
+100,5 Currie Ct,1231308,3,1,5,1295017,Bloomington,3,-1.0,30,349900,Single Family Home,4623.0,61704
+101,4 Flint Ct,43657,4,1,5,1207437,Bloomington,3,-1.0,30,550000,Single Family Home,4839.0,61705
+102,2402 Hillsboro Dr,1329957,2,1,4,1571726,Bloomington,3,-1.0,29,284900,Single Family Home,3899.0,61704
+103,14 Foley Ave,1805631,1,0,3,1571726,Bloomington,1,-1.0,8,110000,Single Family Home,2184.0,61701
+105,1710 Wildwood Rd,1301728,1,0,3,1280142,Bloomington,1,-1.0,1,89000,Single Family Home,990.0,61704
+106,2803 Greenfield Rd,1117728,3,1,5,1571726,Bloomington,2,-1.0,30,289900,Single Family Home,4108.0,61704
+108,608 E Mulberry St,159571,2,0,5,1571726,Bloomington,3,-1.0,30,139900,Single Family Home,3193.0,61701
+109,13765 Fawn Ct,748021,3,1,5,1207437,Bloomington,3,28314.0,30,349900,Single Family Home,4470.0,61705
+110,1315 Fell Ave,29336,2,1,3,1571726,Bloomington,2,-1.0,30,179900,Single Family Home,3060.0,61701
+111,2501 Wirsing Way,1501366,3,0,3,3054550,Bloomington,3,-1.0,29,230000,Single Family Home,3268.0,61704
+112,2914 Bardwell Rd,1231308,2,1,3,1295017,Bloomington,2,-1.0,23,212900,Single Family Home,2967.0,61704
+113,404 N Robinson St,1265113,1,1,2,1571726,Bloomington,1,-1.0,21,89900,Single Family Home,1418.0,61701
+114,2310 Timber View Dr,1345180,2,1,3,-1,Bloomington,2,-1.0,20,178000,Single Family Home,2900.0,61701
+115,1207 Fell Ave,423198,1,1,3,-1,Bloomington,2,-1.0,19,114000,Single Family Home,3368.0,61701
+116,2915 Conlor Dr,523649,2,0,3,1295017,Bloomington,2,9148.0,17,204900,Single Family Home,2926.0,61704
+117,3308 Peppertree Ln,1450930,3,1,4,1571726,Bloomington,3,-1.0,30,247900,Single Family Home,3192.0,61704
+118,1 Swayze Ct,1345180,3,1,4,-1,Bloomington,3,-1.0,28,304900,Single Family Home,3564.0,61705
+119,2809 Kolby Ct,1237791,3,1,5,1295017,Bloomington,2,-1.0,24,254900,Single Family Home,3515.0,61704
+120,1403 Winterberry Cir,1345180,3,1,5,-1,Bloomington,3,-1.0,16,349900,Single Family Home,3871.0,61705
+122,601 McGregor St,7995,1,0,2,3054550,Bloomington,1,-1.0,5,45000,Single Family Home,948.0,61701
+123,47 Parkshores Dr,692040,2,0,2,1295017,Bloomington,2,-1.0,30,142900,Single Family Home,1512.0,61701
+124,1313 W Chestnut St,1200611,3,0,6,1571726,Bloomington,2,-1.0,30,99900,Single Family Home,3963.0,61701
+125,9245 Hardesty Run,1200611,3,1,3,1571726,Bloomington,3,-1.0,30,254900,Single Family Home,3450.0,61705
+126,1 Northcrest Ct,744586,4,1,3,3054550,Bloomington,2,-1.0,30,389900,Single Family Home,4722.0,61701
+127,702 E Monroe St,692040,1,0,3,1295017,Bloomington,1,-1.0,25,107900,Single Family Home,2496.0,61701
+128,1301 Red Abbey Ave,1231308,2,1,4,1295017,Bloomington,3,-1.0,25,275000,Single Family Home,3086.0,61705
+129,102 Meadow Ridge Dr,2259541,3,0,2,1571726,Bloomington,2,-1.0,24,159000,Single Family Home,1656.0,61704
+131,809 E Locust St,2046247,1,0,3,712753,Bloomington,1,-1.0,14,92500,Single Family Home,1042.0,61701
+134,3112 Fiona Way,523674,4,1,6,712753,Bloomington,3,-1.0,30,409000,Single Family Home,5224.0,61704
+136,7 Callahan Ct,523649,3,1,5,1295017,Bloomington,3,-1.0,30,319900,Single Family Home,3243.0,61705
+137,5015 Francesco Ln,1501366,2,2,5,3054550,Bloomington,3,-1.0,30,329900,Single Family Home,3626.0,61705
+138,19403 Briar Dr,1855850,4,2,5,1280142,Bloomington,4,43560.0,30,550000,Single Family Home,6505.0,61705
+139,1111 W Olive St,1501366,2,0,3,3054550,Bloomington,2,-1.0,30,99500,Single Family Home,2154.0,61701
+140,9402 Polaris Dr,2047335,2,1,3,712753,Bloomington,2,24829.2,29,179900,Single Family Home,2794.0,61705
+141,49 Dry Sage Cir,523674,2,1,3,712753,Bloomington,2,-1.0,21,254500,Single Family Home,3238.0,61705
+142,510 W Kelsey St,7995,1,0,2,3054550,Bloomington,1,-1.0,30,69000,Single Family Home,1078.0,61701
+143,1613 Myra Ln,182757,3,0,4,1571726,Bloomington,3,-1.0,30,333000,Single Family Home,3712.0,61704
+144,3903 Rave Rd,192211,3,1,5,1280142,Bloomington,3,-1.0,30,325000,Single Family Home,3677.0,61705
+145,1606 Arrowhead Dr,7995,1,0,3,3054550,Bloomington,1,-1.0,30,95000,Single Family Home,891.0,61704
+146,4115 Pump House Ln,192211,2,1,3,1280142,Bloomington,2,-1.0,20,184900,Single Family Home,2462.0,61705
+147,4 Knottingham Ct,1345180,2,1,3,-1,Bloomington,2,-1.0,19,189900,Single Family Home,2887.0,61704
+148,1812 Glenbridge Rd,911852,2,1,3,1280142,Bloomington,2,-1.0,13,138500,Single Family Home,2250.0,61704
+149,1114 Willow Creek Dr,418519,3,1,5,1571726,Bloomington,3,-1.0,1,294900,Single Family Home,3065.0,61705
+150,23 Lone Oak Ct,1279681,3,0,3,1571726,Bloomington,2,-1.0,1,189900,Single Family Home,2600.0,61705
+151,1114 Willow Creek Dr,418519,3,1,5,1571726,Bloomington,3,-1.0,1,294900,Single Family Home,3065.0,61705
+152,1903 Dimmitt Ct,1263684,3,1,4,1571726,Bloomington,3,-1.0,30,314900,Single Family Home,4054.0,61704
+153,1307 S Center St,1101631,1,1,2,712753,Bloomington,1,-1.0,30,89000,Single Family Home,2373.0,61701
+155,14 Edvardinsh Way,1295118,2,1,3,1295017,Bloomington,2,-1.0,30,149900,Single Family Home,2196.0,61701
+156,13613 Fawn Dr,1231308,2,2,3,1295017,Bloomington,4,21780.0,30,325000,Single Family Home,3080.0,61705
+157,1310 Broad Creek Rd,159571,3,1,4,1571726,Bloomington,3,-1.0,30,284900,Single Family Home,3816.0,61704
+158,3914 Lay Ln,7995,3,1,3,3054550,Bloomington,4,-1.0,30,349900,Single Family Home,3990.0,61705
+159,1206 Janet Dr,1301728,2,1,4,1280142,Bloomington,3,-1.0,30,329000,Single Family Home,4080.0,61704
+160,2001 Clearwater Ave,2202955,2,0,3,1280142,Bloomington,1,-1.0,28,160000,Single Family Home,2336.0,61704
+161,601 W Chestnut St,1653754,2,0,3,1571726,Bloomington,1,-1.0,27,129900,Single Family Home,3865.0,61701
+162,10326 Old Sawmill Rd,1295084,3,0,4,1295017,Bloomington,3,43560.0,26,364900,Single Family Home,4943.0,61705
+163,22 Parkshores Dr,1231308,2,1,3,1295017,Bloomington,2,-1.0,25,189900,Single Family Home,2088.0,61701
+164,505 S State St,1319879,1,1,4,1571726,Bloomington,2,-1.0,20,189900,Single Family Home,2592.0,61701
+166,19105 Woodland Trl,1990797,2,1,4,1571726,Bloomington,3,47916.00000000001,30,399900,Single Family Home,4260.0,61705
+167,121 Magoun St,1231308,1,0,2,1295017,Bloomington,2,25700.4,30,110000,Single Family Home,1455.0,61701
+168,3009 Winchester Dr,1345179,2,0,4,1207437,Bloomington,2,-1.0,30,154900,Single Family Home,2303.0,61704
+169,2810 Reed Rd,1220379,2,1,3,1295017,Bloomington,2,-1.0,27,167900,Single Family Home,2125.0,61704
+170,2701 Stratmoor Dr,2046247,3,1,5,712753,Bloomington,2,-1.0,19,205000,Single Family Home,2719.0,61705
+171,1013 W Wood St,5040,2,0,3,1295017,Bloomington,2,-1.0,17,117500,Single Family Home,2828.0,61701
+172,1209 N Roosevelt Ave,523649,1,0,2,1295017,Bloomington,1,-1.0,3,69900,Single Family Home,2692.0,61701
+173,9306 N 1750 East Rd,964233,3,0,4,1571726,Bloomington,2,914760.0,1,369000,Single Family Home,6300.0,61705
+174,10 Timberlake Rd,43657,5,1,5,1207437,Bloomington,2,-1.0,30,378500,Single Family Home,5753.0,61704
+175,3215 Wisteria Ln,1263684,3,1,5,1571726,Bloomington,3,-1.0,30,434900,Single Family Home,4923.0,61704
+176,2603 Rainbow Ave,881654,2,1,3,1280142,Bloomington,2,-1.0,30,174900,Single Family Home,2249.0,61704
+177,21 Pembrook Cir,1295084,2,1,4,1295017,Bloomington,2,-1.0,30,194900,Single Family Home,3114.0,61704
+178,3720 Helen Dr,2206294,3,1,5,1280142,Bloomington,3,-1.0,30,324900,Single Family Home,3498.0,61704
+179,1302 Crown Ct,5187,3,1,5,1571726,Bloomington,3,-1.0,30,275000,Single Family Home,4296.0,61704
+180,5017 Longfield Rd,192211,3,1,5,1280142,Bloomington,3,-1.0,30,314900,Single Family Home,3676.0,61705
+181,1705 Sweetbriar Dr,1295106,2,1,3,1295017,Bloomington,2,-1.0,29,235000,Single Family Home,3787.0,61701
+182,3 Navajo Ct,1855850,2,1,3,1280142,Bloomington,2,-1.0,28,167500,Single Family Home,2236.0,61704
+183,2006 Clearwater Ave,1207570,2,0,3,1207437,Bloomington,1,-1.0,16,129900,Single Family Home,2770.0,61704
+184,3503 Wegeng Dr,283157,1,0,2,1207437,Bloomington,2,-1.0,16,147990,Single Family Home,1224.0,61704
+185,3514 Armstrong Dr,1653756,4,1,5,712753,Bloomington,3,-1.0,30,349997,Single Family Home,4524.0,61704
+186,2821 Arrowhead Dr,4783,2,1,3,1571726,Bloomington,2,-1.0,30,215000,Single Family Home,3300.0,61704
+187,20 Aspen Ct,5296,3,0,2,1571726,Bloomington,2,-1.0,30,254900,Single Family Home,3468.0,61704
+188,2811 Vrooman Ct,955915,3,1,5,712753,Bloomington,3,-1.0,30,449900,Single Family Home,4384.0,61704
+190,2715 Piney Run,1279681,3,1,3,1571726,Bloomington,2,-1.0,30,299900,Single Family Home,3984.0,61705
+191,712 E Buchanan St,4500,2,0,4,1571726,Bloomington,2,-1.0,28,140000,Single Family Home,1532.0,61701
+192,1610 S Madison St,2263231,1,1,3,1207437,Bloomington,1,-1.0,22,114000,Single Family Home,1800.0,61701
+193,2008 Sinclair Ct,1440163,3,1,5,1571726,Bloomington,3,-1.0,22,399900,Single Family Home,4027.0,61704
+194,1303 W Jackson St,1295083,2,0,2,1295017,Bloomington,1,-1.0,13,59900,Single Family Home,1811.0,61701
+195,29 Crista Ann Ct,1231319,2,0,2,1295017,Bloomington,2,-1.0,1,288500,Single Family Home,3570.0,61704
+196,2104 Berrywood Ln,1207544,3,1,4,1207437,Bloomington,2,-1.0,30,264900,Single Family Home,4114.0,61704
+197,9 Kenfield Cir,425443,3,0,4,1571726,Bloomington,2,-1.0,27,174900,Single Family Home,1570.0,61704
+198,8130 E 1000 North Rd,1207553,1,0,3,712753,Bloomington,2,52707.6,18,159900,Single Family Home,2226.0,61705
+199,1306 Beverly Ln,192211,1,0,2,1280142,Bloomington,1,-1.0,16,95000,Single Family Home,785.0,61701
+200,9899 Old Sawmill Rd,591989,4,0,5,1280142,Bloomington,3,45302.4,30,460000,Single Family Home,5586.0,61705
+201,57 Stonebrook Ct,4783,4,1,5,1571726,Bloomington,3,-1.0,30,557700,Single Family Home,5267.0,61704
+202,1421 W Market St,1571756,2,0,2,712753,Bloomington,3,-1.0,30,95000,Single Family Home,1824.0,61701
+203,302 Mecherle Dr,3106632,2,0,4,-1,Bloomington,1,12632.4,30,139900,Single Family Home,3654.0,61701
+204,4 Weaver Ct,1571741,2,2,4,1571726,Bloomington,3,-1.0,30,399000,Single Family Home,4580.0,61704
+205,811 W Monroe St,1571752,2,0,3,1571726,Bloomington,1,-1.0,28,79900,Single Family Home,2036.0,61701
+206,215 S Florence Ave,1301728,2,0,2,1280142,Bloomington,2,-1.0,28,129900,Single Family Home,1810.0,61701
+207,1104 E Jefferson St,1427353,4,0,5,1280142,Bloomington,2,-1.0,30,279900,Single Family Home,6035.0,61701
+208,14856 N 975 Rd E,1207563,3,0,4,1207437,Bloomington,3,119354.4,30,459000,Single Family Home,4782.0,61705
+209,1215 Rutledge Rd,1416095,1,0,3,1571726,Bloomington,1,-1.0,30,126900,Single Family Home,2080.0,61704
+210,1308 Nicki Dr,1501366,3,0,4,3054550,Bloomington,2,-1.0,30,159900,Single Family Home,3127.0,61704
+211,18 Knollbrook Ct,7995,3,1,5,3054550,Bloomington,3,-1.0,30,359900,Single Family Home,4475.0,61705
+212,20141 Sterling Rd,1345179,3,1,5,1207437,Bloomington,3,64468.8,30,549900,Single Family Home,5238.0,61705
+213,1302 Pinehurst Dr,1295099,1,0,3,1295017,Bloomington,1,-1.0,27,109900,Single Family Home,1782.0,61704
+214,65 Oak Park Rd,1193279,2,1,3,1571726,Bloomington,2,-1.0,26,139900,Single Family Home,2068.0,61701
+215,5101 Londonderry Rd,283157,3,1,4,1207437,Bloomington,3,-1.0,26,289999,Single Family Home,3436.0,61705
+216,2502 Timber View Dr,964233,3,0,3,1571726,Bloomington,2,7405.0,24,124900,Single Family Home,2152.0,61701
+217,911 N Oak St,1265113,1,1,2,1571726,Bloomington,4,-1.0,24,99900,Single Family Home,2048.0,61701
+218,7 Misty Ln,1824976,2,0,2,1571726,Bloomington,2,-1.0,18,169900,Single Family Home,2338.0,61705
+219,518 S Florence Ave,1646965,2,0,2,1571726,Bloomington,1,-1.0,14,89900,Single Family Home,1904.0,61701
+220,1931 Glenbridge Rd,911852,2,1,2,1280142,Bloomington,2,-1.0,1,179900,Single Family Home,2210.0,61704
+221,2411 Grey Fox Trl,1292818,3,1,4,1295017,Bloomington,2,-1.0,30,214900,Single Family Home,3103.0,61705
+222,16 Aspen Ct,921514,2,1,3,1280142,Bloomington,2,-1.0,30,248900,Single Family Home,4040.0,61704
+223,3215 Viney Ln,1207544,2,2,4,1207437,Bloomington,3,6098.0,30,318900,Single Family Home,5148.0,61704
+224,8 Cave Creek Ct,1301728,2,1,4,1280142,Bloomington,2,-1.0,29,214900,Single Family Home,3618.0,61704
+225,509 Seville Rd,1295084,3,0,3,1295017,Bloomington,2,-1.0,28,199900,Single Family Home,3180.0,61701
+227,610 S Florence Ave,1855850,1,0,2,1280142,Bloomington,1,-1.0,25,120000,Single Family Home,1852.0,61701
+228,1715 Indiana St,2739472,1,1,3,1571726,Bloomington,1,-1.0,16,92500,Single Family Home,1117.0,61701
+229,1929 Glenbridge Rd,1855850,2,1,2,1280142,Bloomington,2,-1.0,1,175000,Single Family Home,2210.0,61704
+230,611 S Vale St,2724324,1,0,2,1571726,Bloomington,2,-1.0,30,148900,Single Family Home,1800.0,61701
+231,5001 Fleming Ln,4396,3,1,4,1295017,Bloomington,3,-1.0,30,279900,Single Family Home,3548.0,61705
+232,3 Kenyon Ct,3106632,2,1,4,-1,Bloomington,2,10890.0,30,229900,Single Family Home,3223.0,61701
+233,3 Devon Rd,744586,3,0,4,3054550,Bloomington,2,-1.0,30,189900,Single Family Home,2338.0,61704
+234,3503 Gabby Dr,7995,2,1,5,3054550,Bloomington,3,-1.0,30,285000,Single Family Home,3580.0,61704
+235,5 Canterbury Ct,1613798,3,1,3,1571726,Bloomington,3,-1.0,30,300000,Single Family Home,4239.0,61701
+236,10 Cameron Ct,692040,2,1,4,1295017,Bloomington,3,-1.0,30,244900,Single Family Home,3134.0,61704
+237,14714 Brian Dr,1253576,1,0,3,1207437,Bloomington,1,-1.0,23,116900,Single Family Home,1040.0,61705
+238,5305 Ferryman Rd,1329957,3,1,5,1571726,Bloomington,3,-1.0,1,294900,Single Family Home,3282.0,61705
+239,3604 Connie Kay Way,1440163,3,1,4,1571726,Bloomington,3,-1.0,30,334900,Single Family Home,4324.0,61704
+240,3320 Golden Eagle Rd,1207554,3,1,4,3054550,Bloomington,3,-1.0,30,289900,Single Family Home,3774.0,61704
+241,1701 Glenbridge Rd,192211,2,1,3,1280142,Bloomington,2,-1.0,30,185000,Single Family Home,2501.0,61704
+242,19302 Wood Dale Holw,172711,2,1,4,1207437,Bloomington,2,54450.0,29,274900,Single Family Home,4638.0,61705
+243,1324 Sherman St,1388808,2,0,4,712753,Bloomington,2,-1.0,25,143000,Single Family Home,3072.0,61701
+244,2513 Grey Fox Trl,803691,2,1,4,1295017,Bloomington,3,-1.0,24,239900,Single Family Home,3223.0,61705
+245,1224 Gettysburg Dr,1388808,1,1,3,712753,Bloomington,1,-1.0,30,123900,Single Family Home,2723.0,61704
+246,1007 E Jefferson St,1220379,4,2,6,1295017,Bloomington,5,-1.0,30,359900,Single Family Home,6454.0,61701
+247,2806 Alana Way,418519,3,1,5,1571726,Bloomington,3,-1.0,30,399900,Single Family Home,4407.0,61704
+248,1204 5 N Lee,2132169,1,0,3,1571726,Bloomington,1,-1.0,30,78900,Single Family Home,1440.0,61701
+249,3103 Eagle Crest Rd,1571741,3,1,4,1571726,Bloomington,2,9148.0,29,234900,Single Family Home,3693.0,61704
+250,1104 S Center St,14862,1,1,5,-1,Bloomington,1,-1.0,15,80000,Single Family Home,2537.0,61701
+252,1237 Mount Vernon Dr,7995,2,0,3,3054550,Bloomington,1,-1.0,30,99900,Single Family Home,1550.0,61704
+253,6 Navajo Ct,420364,3,1,4,1280142,Bloomington,2,-1.0,30,179900,Single Family Home,2450.0,61704
+254,510 W Oakland Ave,470068,1,1,3,1207437,Bloomington,2,-1.0,30,77500,Single Family Home,2039.0,61701
+255,1211 Willow Creek Rd,1571756,3,1,5,712753,Bloomington,3,-1.0,30,350000,Single Family Home,3670.0,61704
+256,704 W Macarthur Ave,950922,1,0,3,1207437,Bloomington,1,-1.0,27,94900,Single Family Home,1840.0,61701
+257,102 Van Schoick St,1571741,2,0,3,1571726,Bloomington,2,-1.0,27,134900,Single Family Home,1632.0,61701
+258,814 S Mercer Ave,692040,2,1,4,1295017,Bloomington,1,-1.0,26,157900,Single Family Home,3035.0,61701
+259,314 W Kelsey St,2743947,2,0,4,1280142,Bloomington,2,-1.0,21,132900,Single Family Home,3000.0,61701
+261,5107 Longfield Dr,2963332,3,1,5,1571726,Bloomington,3,8712.0,30,315900,Single Family Home,3389.0,61705
+262,8 Brownstone Ct,744586,2,1,4,3054550,Bloomington,3,-1.0,30,249900,Single Family Home,3264.0,61704
+263,809 N Morris Ave,7995,1,1,2,3054550,Bloomington,3,-1.0,30,122000,Single Family Home,1665.0,61701
+264,1306 Eastport Dr,1346837,2,1,3,1280142,Bloomington,2,-1.0,30,169900,Single Family Home,2619.0,61704
+265,3114 Preston Dr,748021,2,1,4,1207437,Bloomington,2,-1.0,29,239900,Single Family Home,3648.0,61704
+266,1505 Bay View Ln,1295086,2,1,4,1295017,Bloomington,2,-1.0,28,194900,Single Family Home,2950.0,61704
+267,2804 Huntington Rd,692040,2,1,4,1295017,Bloomington,2,-1.0,28,249900,Single Family Home,3706.0,61704
+268,1407 Ridgeport Ave,1231308,2,0,4,1295017,Bloomington,1,-1.0,28,139000,Single Family Home,2266.0,61704
+269,1304 S Oak St,1221216,1,0,3,1280142,Bloomington,2,-1.0,28,87000,Single Family Home,1507.0,61701
+270,1620 Martin Luther King Dr,21881,2,1,3,1571726,Bloomington,2,-1.0,17,124900,Single Family Home,1769.0,61701
+271,309 Meadows Ave,921510,2,0,3,-1,Bloomington,1,6534.0,1,69900,Single Family Home,1728.0,61701
+272,2201 Foxtail Rd,420364,4,1,5,1280142,Bloomington,3,-1.0,37,369900,Single Family Home,5074.0,61704
+273,2104 Altoona Rd,523674,2,0,3,712753,Bloomington,2,-1.0,30,209900,Single Family Home,2964.0,61705
+274,2824 Gill St,7995,2,1,3,3054550,Bloomington,2,-1.0,30,159900,Single Family Home,2486.0,61704
+275,1606 Whitmer Ct,2051691,3,1,5,1295017,Bloomington,3,-1.0,30,269500,Single Family Home,3432.0,61704
+276,21 Waterside Cir,71546,3,1,4,1295017,Bloomington,3,-1.0,30,339000,Single Family Home,4218.0,61704
+277,1408 N Oak St,1571752,2,0,3,1571726,Bloomington,1,-1.0,29,119000,Single Family Home,1788.0,61701
+278,3 Hearthstone Ct,1194148,2,1,4,-1,Bloomington,2,-1.0,25,249900,Single Family Home,3749.0,61704
+279,903 W Macarthur Ave,21881,1,0,2,1571726,Bloomington,1,-1.0,24,76000,Single Family Home,1572.0,61701
+280,1110 Woodbury Pl,1916027,2,0,3,1571726,Bloomington,2,-1.0,20,145000,Single Family Home,2500.0,61701
+281,1313 E Oakland Ave,1956224,1,0,2,712753,Bloomington,2,-1.0,16,125000,Single Family Home,1923.0,61701
+283,13 Dawes Pl,1265113,1,0,2,1571726,Bloomington,1,-1.0,30,124900,Single Family Home,1782.0,61701
+284,1227 E Jefferson St,1388808,3,0,3,712753,Bloomington,4,-1.0,30,185000,Single Family Home,2699.0,61701
+285,1408 Royal Pointe Dr,159571,3,1,4,1571726,Bloomington,2,-1.0,30,216999,Single Family Home,3286.0,61704
+286,30 Breckenwood Ct,523674,2,1,4,712753,Bloomington,2,-1.0,29,177000,Single Family Home,2702.0,61704
+287,3509 Gabby Dr,1263684,3,1,5,1571726,Bloomington,3,-1.0,28,329900,Single Family Home,4023.0,61704
+288,8805 Mill Creek Rd,1193279,3,0,3,1571726,Bloomington,2,33105.6,24,184900,Single Family Home,3356.0,61705
+289,2814 Rocksbury Dr,1207568,2,1,3,1207437,Bloomington,2,-1.0,10,148000,Single Family Home,2603.0,61705
+290,1109 Elmwood Rd,1571754,2,1,3,1571726,Bloomington,2,-1.0,2,249900,Single Family Home,2168.0,61701
+292,2804 Longmeadow Ln,1805631,2,1,4,1571726,Bloomington,2,-1.0,30,229900,Single Family Home,2747.0,61704
+293,16034 Garnet Ln,1345179,3,0,4,1207437,Bloomington,3,27878.4,30,349900,Single Family Home,4736.0,61705
+294,2603 Wedgewood Rd,182757,3,1,3,1571726,Bloomington,3,-1.0,30,279900,Single Family Home,4100.0,61704
+295,1 Harwood Pl,1200611,2,0,3,1571726,Bloomington,2,-1.0,30,172900,Single Family Home,2208.0,61701
+296,2902 Spangle Rd,5295,2,1,4,1207437,Bloomington,3,-1.0,29,227900,Single Family Home,3088.0,61705
+297,1307 Challis Dr,1855850,1,1,3,1280142,Bloomington,1,-1.0,28,99900,Single Family Home,1591.0,61704
+298,1201 Chatham Ln,1231308,2,1,4,1295017,Bloomington,2,-1.0,27,180000,Single Family Home,2850.0,61704
+299,22 Lone Oak Ct,523649,2,1,4,1295017,Bloomington,2,-1.0,26,189900,Single Family Home,2829.0,61705
+300,22 Lone Oak Ct,523649,2,1,4,1295017,Bloomington,2,-1.0,26,189900,Single Family Home,2829.0,61705
+301,2806 Gill St,1990797,3,1,3,1571726,Bloomington,2,-1.0,25,159900,Single Family Home,2215.0,61704
+302,1618 Keybridge Way,5184,2,1,3,3054550,Bloomington,2,-1.0,18,273900,Single Family Home,3756.0,61704
+304,1503 E Grove St,2729549,2,1,4,1571726,Bloomington,2,-1.0,6,247900,Single Family Home,3082.0,61701
+305,1007 N Oak St,4500,1,0,1,1571726,Bloomington,1,-1.0,21,50000,Single Family Home,2099.0,61701
+306,2913 Mockingbird Ln,2046247,1,1,4,712753,Bloomington,2,-1.0,14,150000,Single Family Home,2268.0,61704
+307,9075 Deer Ridge Dr,1265113,4,2,5,1571726,Bloomington,3,47044.8,30,399900,Single Family Home,6540.0,61705
+308,2003 E Jackson St,7995,1,1,3,3054550,Bloomington,2,-1.0,30,159900,Single Family Home,2160.0,61701
+309,1223 Broad Creek Rd,4396,3,1,5,1295017,Bloomington,3,-1.0,30,289875,Single Family Home,4032.0,61704
+310,711 E Taylor St,523645,1,0,3,1280142,Bloomington,1,-1.0,29,102700,Single Family Home,2640.0,61701
+311,45 Breckenwood Ct,1345180,3,1,4,-1,Bloomington,2,-1.0,26,189900,Single Family Home,2702.0,61704
+312,1306 Ewing St,2258993,2,1,3,-1,Bloomington,2,-1.0,24,159000,Single Family Home,3720.0,61701
+313,2214 Knollbrook Way,1220379,2,1,3,1295017,Bloomington,3,-1.0,24,364900,Single Family Home,5068.0,61705
+314,1009 Gerike Way,1345180,3,0,3,-1,Bloomington,2,-1.0,20,215000,Single Family Home,3180.0,61704
+315,3 Misty Ln,1987183,2,0,2,1295017,Bloomington,1,-1.0,15,179900,Single Family Home,2330.0,61705
+316,2905 Spangle Rd,1855850,3,1,4,1280142,Bloomington,2,-1.0,30,255000,Single Family Home,3394.0,61705
+317,21 Geneva Ct,7995,1,0,3,3054550,Bloomington,2,-1.0,30,129900,Single Family Home,1056.0,61704
+318,3 Turtleback Ct,21881,4,1,5,1571726,Bloomington,3,-1.0,30,319900,Single Family Home,4422.0,61705
+319,4 Treyburn Ct,21881,3,1,5,1571726,Bloomington,3,-1.0,29,324900,Single Family Home,3939.0,61704
+320,3508 Zachary Ln,1345180,2,1,5,-1,Bloomington,3,-1.0,24,314900,Single Family Home,4098.0,61704
+321,703 Bradley Dr,1295133,2,0,3,1295017,Bloomington,2,-1.0,9,139900,Single Family Home,2806.0,61701
+322,16 Red Maple Ct,1263684,3,1,6,1571726,Bloomington,3,-1.0,1,356900,Single Family Home,4458.0,61705
+323,1606 Six Points Rd,1501366,3,0,4,3054550,Bloomington,4,47916.00000000001,30,274900,Single Family Home,3546.0,61701
+324,2307 Woodhavens Dr,1345180,2,0,3,-1,Bloomington,2,-1.0,28,178000,Single Family Home,3306.0,61701
+326,1812 E Lafayette St,1117728,1,0,3,1571726,Bloomington,1,-1.0,23,112900,Single Family Home,1051.0,61701
+328,2803 Rainbow Ave,1295094,2,1,3,1207437,Bloomington,3,-1.0,20,184900,Single Family Home,2808.0,61704
+329,3410 Cornelius Dr,1319879,2,0,3,1571726,Bloomington,2,-1.0,20,145900,Single Family Home,2472.0,61704
+330,811 W Grove St,1207568,2,0,3,1207437,Bloomington,2,-1.0,19,50000,Single Family Home,2843.0,61701
+332,3613 Rave Rd,420364,3,1,4,1280142,Bloomington,3,-1.0,34,319900,Single Family Home,3851.0,61704
+333,3301 Eagle Crest Rd,5187,2,1,4,1571726,Bloomington,3,-1.0,30,249900,Single Family Home,3638.0,61704
+334,2 White Cliff Ct,523674,3,0,5,712753,Bloomington,3,22651.2,30,425000,Single Family Home,4460.0,61705
+335,1 Dawes Pl,1938118,1,1,3,1207437,Bloomington,1,-1.0,28,133900,Single Family Home,2298.0,61701
+336,1401 Kickapoo Creek Rd,2047335,2,1,3,712753,Bloomington,2,-1.0,22,239900,Single Family Home,2888.0,61705
+337,9645 Ridgewood Ct,1105956,2,1,3,-1,Bloomington,2,-1.0,19,219900,Single Family Home,2262.0,61705
+338,1601 S Center St,471011,1,0,3,1295017,Bloomington,1,-1.0,10,28900,Single Family Home,2254.0,61701
+339,1503Paddington Dr,1907880,2,1,4,1207437,Bloomington,2,-1.0,30,212900,Single Family Home,3350.0,61704
+340,28 Buckhurst Cir,2202955,2,1,4,1280142,Bloomington,2,-1.0,30,339000,Single Family Home,4060.0,61704
+341,26 Stonehedges Ct,523674,3,1,4,712753,Bloomington,3,17424.0,30,429900,Single Family Home,9894.0,61705
+342,26 Knollbrook Ct,523674,3,1,5,712753,Bloomington,3,-1.0,29,339900,Single Family Home,3941.0,61705
+343,3301 Brittany Cir,1263684,3,1,4,1571726,Bloomington,3,-1.0,28,244900,Single Family Home,3627.0,61704
+344,53 Vermont Ave,1495704,2,1,4,1295017,Bloomington,2,-1.0,30,165000,Single Family Home,2778.0,61701
+345,117 Meadowbrook Dr,523649,1,0,3,1295017,Bloomington,1,-1.0,12,116900,Single Family Home,1102.0,61701
+346,3802 Baldocchi Dr,1571756,3,1,4,712753,Bloomington,3,-1.0,30,305000,Single Family Home,3787.0,61704
+347,1310 Guiness Dr,1222350,3,1,5,712753,Bloomington,3,-1.0,30,369000,Single Family Home,4027.0,61705
+348,5 Greythorne Cir,7995,2,1,4,3054550,Bloomington,3,-1.0,30,255000,Single Family Home,3506.0,61704
+349,2802 Stevenson Dr,1571741,4,0,6,1571726,Bloomington,3,-1.0,30,419900,Single Family Home,4497.0,61704
+350,2802 Stevenson Dr,1571741,4,0,6,1571726,Bloomington,3,-1.0,30,419900,Single Family Home,4497.0,61704
+351,2818 Huntington Rd,283157,3,1,4,1207437,Bloomington,2,-1.0,26,259999,Single Family Home,3663.0,61704
+352,308 Maizefield Ave,1193279,1,0,2,1571726,Bloomington,1,-1.0,15,84900,Single Family Home,702.0,61701
+353,3101 Fiona Way,1231308,4,1,6,1295017,Bloomington,3,-1.0,30,699900,Single Family Home,5982.0,61704
+354,1816 E Lafayette St,7995,1,0,3,3054550,Bloomington,1,-1.0,30,123900,Single Family Home,1190.0,61701
+355,17 Sable Oaks Ct,523674,4,1,5,712753,Bloomington,3,26571.6,30,450000,Single Family Home,5929.0,61704
+356,209 Fleetwood Dr,7995,3,1,4,3054550,Bloomington,2,-1.0,30,220000,Single Family Home,3100.0,61701
+357,3624 Pamela Dr,1887425,3,1,5,1280142,Bloomington,3,-1.0,27,375000,Single Family Home,3312.0,61704
+358,1009 Bach Dr,911852,3,1,4,1280142,Bloomington,3,-1.0,4,279900,Single Family Home,2899.0,61704
+359,5006 Longfield Rd,1374072,3,1,5,1571726,Bloomington,3,-1.0,30,319900,Single Family Home,3333.0,61705
+360,57 Pebblebrook Ct,1346837,4,1,5,1280142,Bloomington,3,15681.6,30,499900,Single Family Home,3779.0,61705
+361,11 Rock Garden Ct,1501366,3,1,4,3054550,Bloomington,2,-1.0,30,259900,Single Family Home,3070.0,61704
+362,19704 Newgate St,1231308,3,1,5,1295017,Bloomington,2,-1.0,30,300000,Single Family Home,4110.0,61705
+363,15852 Kingswood Dr,881654,3,0,3,1280142,Bloomington,2,31798.8,28,199900,Single Family Home,3080.0,61705
+364,508 E Olive St,2202955,1,0,3,1280142,Bloomington,1,-1.0,14,60000,Single Family Home,1820.0,61701
+366,4011 Sutter Rd,911852,3,1,5,1280142,Bloomington,3,-1.0,5,449900,Single Family Home,3854.0,61705
+367,3101 Sable Oaks Rd,1193279,3,1,5,1571726,Bloomington,3,-1.0,1,297900,Single Family Home,4370.0,61704
+373,3912 Baywood Rd,1329957,2,1,4,1571726,Bloomington,3,-1.0,30,319900,Single Family Home,4960.0,61705
+374,1315 Winterberry Cir,921514,3,1,5,1280142,Bloomington,3,10454.4,30,389500,Single Family Home,3596.0,61705
+375,802 W Oakland Ave,523649,1,1,4,1295017,Bloomington,1,-1.0,29,99900,Single Family Home,2505.0,61701
+376,1216 S Oak St,430485,1,0,2,3054550,Bloomington,1,-1.0,27,59000,Single Family Home,804.0,61701
+378,1212 N Roosevelt Ave,523674,1,0,2,712753,Bloomington,1,-1.0,15,82500,Single Family Home,1972.0,61701
+379,305 S McLean St,15043,1,0,3,1295017,Bloomington,1,-1.0,14,79900,Single Family Home,3144.0,61701
+381,11 Ivey Ct,1548431,1,1,3,1280142,Bloomington,1,-1.0,27,128500,Single Family Home,2016.0,61701
+382,3104 Bristol Dr,1646092,2,1,4,3054550,Bloomington,2,-1.0,30,234900,Single Family Home,4000.0,61704
+383,805 Lake Fork Rd,1222389,3,1,4,1280142,Bloomington,2,-1.0,27,167000,Single Family Home,3062.0,61704
+384,1403 N Oak St,1704314,1,0,3,712753,Bloomington,2,-1.0,11,89900,Single Family Home,1396.0,61701
+387,23 Palm Ct,5184,2,1,3,3054550,Bloomington,2,-1.0,1,179900,Single Family Home,2611.0,61701
+388,8 Deerfield Ct,7995,3,1,4,3054550,Bloomington,3,-1.0,30,274900,Single Family Home,3604.0,61705
+390,3403 Castlemain Dr,591989,3,1,4,1280142,Bloomington,2,-1.0,43,225000,Single Family Home,3127.0,61704
+392,1908 Oakwood Ave,1301728,3,1,4,1280142,Bloomington,2,-1.0,30,229900,Single Family Home,4149.0,61704
+393,9101 N 1900 East Rd,523674,2,1,5,712753,Bloomington,3,152460.0,30,439900,Single Family Home,4392.0,61705
+394,1301 Janet Dr,1855850,3,1,5,1280142,Bloomington,3,-1.0,30,420000,Single Family Home,4465.0,61704
+395,304 S Hershey Rd,5040,2,2,4,1295017,Bloomington,2,-1.0,30,175000,Single Family Home,4454.0,61704
+396,63 Astoria Way,937250,2,0,2,1295017,Bloomington,2,-1.0,30,139900,Single Family Home,1792.0,61704
+397,1408 Broad Creek Rd,43657,3,1,3,1207437,Bloomington,3,-1.0,30,309500,Single Family Home,3988.0,61704
+398,203 W Emerson St,1231308,2,1,4,1295017,Bloomington,2,-1.0,29,129000,Single Family Home,3476.0,61701
+399,3913 Brookline Ln,425443,3,1,5,1571726,Bloomington,3,-1.0,22,274900,Single Family Home,4078.0,61705
+400,1202 Prairie Ln,860512,1,0,3,712753,Bloomington,2,-1.0,14,119900,Single Family Home,1223.0,61701
+401,26 Inglewood Ln,7995,2,1,3,3054550,Bloomington,2,-1.0,30,279000,Single Family Home,3188.0,61704
+402,4 Willowbend Ct,65952,2,1,5,1571726,Bloomington,3,-1.0,30,241900,Single Family Home,3920.0,61705
+403,704 S Moore St,1222389,3,1,4,1280142,Bloomington,3,-1.0,30,364900,Single Family Home,3780.0,61701
+404,2504 Piney Run,6449,3,1,5,1571726,Bloomington,2,-1.0,30,299990,Single Family Home,4290.0,61705
+406,19417 Lakewood Dr,7995,2,1,4,3054550,Bloomington,3,24393.6,30,265000,Single Family Home,3442.0,61705
+407,1217 N Oak St,2986569,1,0,2,1571726,Bloomington,1,-1.0,27,93000,Single Family Home,1730.0,61701
+408,1114 W Macarthur Ave,423198,2,1,3,-1,Bloomington,1,-1.0,17,83000,Single Family Home,1453.0,61701
+409,17 Buckhurst,22772,3,1,4,1295017,Bloomington,3,-1.0,30,329900,Single Family Home,4571.0,61704
+410,34 Ravenwood Cir,1279681,2,1,4,1571726,Bloomington,2,-1.0,28,229900,Single Family Home,3678.0,61704
+413,1925 Dunraven Rd,670891,2,0,2,1571726,Bloomington,2,-1.0,13,239000,Single Family Home,3320.0,61704
+414,1205 N Madison St,-1,1,1,2,-1,Bloomington,1,-1.0,4,108500,Single Family Home,1612.0,61701
+415,1116 Staghorne Way,418519,3,1,5,1571726,Bloomington,3,-1.0,1,339900,Single Family Home,3519.0,61705
+416,30 Knollbrook Ct,1295099,3,1,5,1295017,Bloomington,3,-1.0,29,349900,Single Family Home,5201.0,61705
+417,816 E Walnut St,1440709,1,0,2,712753,Bloomington,2,-1.0,26,87500,Single Family Home,1210.0,61701
+419,1301 Cadwell Dr,486538,1,1,3,-1,Bloomington,2,-1.0,14,132900,Single Family Home,1465.0,61704
+420,606 N East St,578141,2,0,4,1295017,Bloomington,1,-1.0,1,30900,Single Family Home,3172.0,61701
+421,210 Orleans Dr,1365275,3,0,3,1207437,Bloomington,2,-1.0,30,214900,Single Family Home,4216.0,61701
+422,3007 Ridge Crest Dr,4396,2,1,4,1295017,Bloomington,2,-1.0,30,209900,Single Family Home,3221.0,61704
+423,2517 Timber View Dr,1231308,3,1,4,1295017,Bloomington,3,-1.0,30,174900,Single Family Home,2950.0,61701
+424,304 Granada Rd,1231308,3,0,4,1295017,Bloomington,2,-1.0,30,175000,Single Family Home,3447.0,61701
+425,1411 Norma Dr,523649,3,1,4,1295017,Bloomington,3,-1.0,28,250000,Single Family Home,3308.0,61704
+427,512 Seminary Ave,5040,1,0,3,1295017,Bloomington,1,-1.0,16,57400,Single Family Home,1413.0,61701
+431,11 Buckingham Ct,1319879,2,1,4,1571726,Bloomington,2,-1.0,30,220000,Single Family Home,4495.0,61704
+432,1306 Tearose Ln,1824976,3,1,4,1571726,Bloomington,2,-1.0,30,219900,Single Family Home,3468.0,61704
+433,2005 Gailey Ln,1295113,3,1,5,1295017,Bloomington,3,-1.0,27,379000,Single Family Home,4481.0,61704
+434,607 Bradley Dr,523649,2,2,6,1295017,Bloomington,1,-1.0,13,149900,Single Family Home,3960.0,61701
+435,1409 N Oak St,591989,2,0,3,1280142,Bloomington,1,-1.0,26,95000,Single Family Home,2473.0,61701
+436,2503 Blarney Stone Ln,1571761,2,2,4,1571726,Bloomington,2,-1.0,23,249999,Single Family Home,3461.0,61704
+437,1202 Eastholme Ave,803691,1,0,2,1295017,Bloomington,2,-1.0,12,104900,Single Family Home,2040.0,61701
+438,19292 Oakwood Dr,21881,2,1,4,1571726,Bloomington,3,22215.6,30,249000,Single Family Home,2958.0,61705
+439,2501 Keystone Rd,21881,3,1,4,1571726,Bloomington,3,-1.0,29,239900,Single Family Home,4252.0,61704
+440,1020 Doral Dr,1416095,3,1,2,1571726,Bloomington,2,-1.0,23,129900,Single Family Home,1800.0,61701
+441,906 N Mason St,758933,1,0,2,-1,Bloomington,1,3485.0,13,39900,Single Family Home,978.0,61701
+442,2004 Trotter Ln,5040,3,0,4,1295017,Bloomington,3,-1.0,30,429900,Single Family Home,4480.0,61704
+443,1109 Longford Ln,881654,3,1,5,1280142,Bloomington,3,-1.0,30,275000,Single Family Home,3564.0,61704
+444,47 White Pl,860512,2,1,5,712753,Bloomington,2,-1.0,30,199900,Single Family Home,4000.0,61701
+445,19287 Inverness Ct,111130,3,1,4,1207437,Bloomington,3,-1.0,30,388500,Single Family Home,5062.0,61705
+446,63 Brookshire Grn,7995,3,1,4,3054550,Bloomington,2,-1.0,30,179000,Single Family Home,2688.0,61704
+447,11 Richwood Trl,1194290,2,0,2,1571726,Bloomington,2,-1.0,24,181900,Single Family Home,2186.0,61701
+448,66 Fedor Cir,1231308,3,0,5,1295017,Bloomington,3,-1.0,30,275000,Single Family Home,3684.0,61705
+449,5 Paul Ct,1571752,2,0,4,1571726,Bloomington,1,-1.0,30,182000,Single Family Home,2345.0,61701
+450,19528 Briar Dr,1118829,3,1,4,1571726,Bloomington,3,50529.6,30,559900,Single Family Home,6308.0,61705
+451,1212 Elmwood Rd,744586,4,1,5,3054550,Bloomington,3,-1.0,30,449900,Single Family Home,5258.0,61701
+453,611 E Taylor St,2269057,2,0,3,1280142,Bloomington,1,-1.0,16,129900,Single Family Home,2761.0,61701
+454,14 Aspen Ct,921514,2,0,2,1280142,Bloomington,2,-1.0,30,227300,Single Family Home,3809.0,61704
+456,40 Boardwalk Cir,1207563,2,1,3,1207437,Bloomington,2,-1.0,17,155000,Single Family Home,2205.0,61701
+457,2512 Blarney Stone Ln,1231308,2,1,4,1295017,Bloomington,3,-1.0,1,240000,Single Family Home,3232.0,61704
+458,16060 Dorado Rd,1231308,2,1,4,1295017,Bloomington,2,36590.4,25,309900,Single Family Home,3728.0,61705
+459,815 W Grove St,2975897,1,0,3,1280142,Bloomington,1,-1.0,28,58000,Single Family Home,1056.0,61701
+460,5108 Longfield Rd,283157,3,1,6,1207437,Bloomington,3,-1.0,25,309999,Single Family Home,3183.0,61705
+461,2001 Woodhavens Dr,1345180,3,0,3,-1,Bloomington,2,-1.0,16,139900,Single Family Home,2320.0,61701
+462,2404 Anchor Dr,7995,1,0,3,3054550,Bloomington,1,-1.0,30,122500,Single Family Home,2164.0,61704
+463,907 N Morris Ave,1501366,1,0,2,3054550,Bloomington,2,-1.0,30,94900,Single Family Home,2136.0,61701
+464,13552 Buck Rd,1279681,3,1,4,1571726,Bloomington,3,-1.0,27,329900,Single Family Home,4773.0,61705
+465,3502 Glenmore Rd,21881,4,0,4,1571726,Bloomington,2,-1.0,26,194900,Single Family Home,3436.0,61704
+466,207 Brigham School Rd,2269057,3,0,3,1280142,Bloomington,4,-1.0,25,190900,Single Family Home,2204.0,61704
+467,1005 Park St,392860,2,0,4,1207437,Bloomington,2,-1.0,24,159900,Single Family Home,3540.0,61701
+468,4 Berenz Pl,875746,2,0,3,712753,Bloomington,1,-1.0,21,120000,Single Family Home,3246.0,61701
+469,705 W Market Ter,1226587,1,1,5,1226871,Bloomington,1,7841.0,12,27900,Single Family Home,1908.0,61701
+470,2816 Conlor Dr,523649,2,0,3,1295017,Bloomington,2,-1.0,1,214500,Single Family Home,3008.0,61704
+472,2503 Riverwoods Ln,1231308,4,1,5,1295017,Bloomington,3,-1.0,30,369800,Single Family Home,4185.0,61705
+474,8592 Blooming Grove Rd,1622809,2,1,3,712753,Bloomington,2,30927.6,30,192900,Single Family Home,3288.0,61705
+475,1201 Staghorne Way,1263684,3,1,5,1571726,Bloomington,3,-1.0,28,339900,Single Family Home,3678.0,61705
+476,1112 Staghorne Way,1263684,3,1,6,1571726,Bloomington,3,-1.0,27,356900,Single Family Home,4458.0,61705
+477,1802 Vladimir Dr,955915,2,1,3,712753,Bloomington,2,-1.0,27,154900,Single Family Home,2355.0,61704
+478,1205 Willow Creek Dr,911852,3,1,5,1280142,Bloomington,3,-1.0,29,314500,Single Family Home,3190.0,61705
+479,13806 Rengel Dr,425443,2,0,3,1571726,Bloomington,2,24393.6,28,175900,Single Family Home,3004.0,61705
+480,2014 E Taylor St,1117728,2,0,5,1571726,Bloomington,2,-1.0,28,217000,Single Family Home,3176.0,61701
+481,11 Windsong Way,1301728,4,2,5,1280142,Bloomington,4,-1.0,30,475000,Single Family Home,6942.0,61704
+482,504 W Stewart St,192211,2,0,3,1280142,Bloomington,2,-1.0,29,117900,Single Family Home,2212.0,61701
+484,2 Northcrest Ct,159571,4,1,5,1571726,Bloomington,3,20908.8,30,785000,Single Family Home,5821.0,61701
+485,3311 Stonebridge Dr,1231308,3,1,5,1295017,Bloomington,3,-1.0,30,225000,Single Family Home,3218.0,61704
+486,3506 Connie Kay Way,1571741,3,1,5,1571726,Bloomington,3,-1.0,30,339000,Single Family Home,4058.0,61704
+487,12 Smokey Ct,7995,3,1,5,3054550,Bloomington,3,-1.0,30,589900,Single Family Home,6079.0,61704
+488,2509 Stelt Dr,7995,3,1,5,3054550,Bloomington,3,-1.0,30,249900,Single Family Home,3082.0,61705
+489,19179 Briar Dr,111130,3,1,4,1207437,Bloomington,2,-1.0,30,299000,Single Family Home,5000.0,61705
+490,3917 Brookline Ln,1193279,3,1,5,1571726,Bloomington,3,-1.0,30,319900,Single Family Home,3812.0,61705
+491,22 Derby Way,1263684,4,1,5,1571726,Bloomington,3,-1.0,29,439900,Single Family Home,5582.0,61704
+492,601 Chelsea Dr,2047335,3,1,4,712753,Bloomington,3,-1.0,28,299000,Single Family Home,4192.0,61704
+493,1303 Cadwell Dr,1295099,1,1,3,1295017,Bloomington,2,-1.0,26,124500,Single Family Home,1352.0,61704
+496,1304 Tearose Ln,1376376,2,1,4,1295017,Bloomington,2,-1.0,30,239900,Single Family Home,3842.0,61704
+497,2403 Savanna Rd,515817,3,1,5,1207437,Bloomington,2,-1.0,29,259900,Single Family Home,4251.0,61705
+498,15 Cloverhill Cir,21881,3,2,4,1571726,Bloomington,3,-1.0,27,324900,Single Family Home,3964.0,61705
+499,14384 N 900 East Rd,14862,3,0,3,-1,Bloomington,2,1306800.0,30,460000,Single Family Home,3094.0,61705
+500,11 Chloe Ct,955915,4,1,5,712753,Bloomington,3,-1.0,30,519900,Single Family Home,5605.0,61704
+501,3 Harbor Pointe Ct,1207554,2,1,4,3054550,Bloomington,2,-1.0,29,234900,Single Family Home,2928.0,61704
+502,810 E Empire St,1221216,2,0,2,1280142,Bloomington,2,-1.0,26,99000,Single Family Home,1988.0,61701
+503,19071 Meander Way,1220379,2,1,3,1295017,Bloomington,2,51836.4,21,265000,Single Family Home,3742.0,61705
+504,3018 Joseph St,1231308,1,0,4,1295017,Bloomington,1,-1.0,25,89900,Single Family Home,1081.0,61704
+505,209 Packard St,1295094,1,1,3,1207437,Bloomington,1,-1.0,19,89900,Single Family Home,2944.0,61701
+506,2213 Ridge Creek Dr,921514,3,0,4,1280142,Bloomington,3,12196.8,30,314900,Single Family Home,3997.0,61705
+508,1502 Dover Rd,420364,2,1,4,1280142,Bloomington,2,10890.0,36,187000,Single Family Home,2826.0,61704
+509,1110 S Lee St,14862,1,0,2,-1,Bloomington,1,-1.0,24,66000,Single Family Home,1308.0,61701
+510,19432 Mallingham Way,1805631,4,1,8,1571726,Bloomington,3,40946.4,30,298900,Single Family Home,4110.0,61705
+511,622 Hannah St,7995,1,0,2,3054550,Bloomington,2,-1.0,30,95000,Single Family Home,1710.0,61701
+512,7 Yukon Cir,1329957,3,1,4,1571726,Bloomington,2,-1.0,30,259900,Single Family Home,3576.0,61705
+513,825 E Jefferson St,1231308,2,0,4,1295017,Bloomington,1,-1.0,29,119000,Single Family Home,3750.0,61701
+514,2202 Ridge Creek Dr,523674,2,1,3,712753,Bloomington,3,-1.0,28,265000,Single Family Home,3672.0,61705
+516,907 W Washington St,494617,2,0,5,1571726,Bloomington,1,-1.0,18,109900,Single Family Home,1932.0,61701
+518,2511 Driftwood Rd,744586,3,1,4,3054550,Bloomington,3,-1.0,30,389900,Single Family Home,5375.0,61704
+519,3913 Baywood Rd,1329957,3,1,5,1571726,Bloomington,3,-1.0,30,329900,Single Family Home,4397.0,61705
+520,14520 Redstone Cir,1548431,2,1,3,1280142,Bloomington,2,40946.4,30,190000,Single Family Home,2200.0,61705
+521,1120 Willow Creek Dr,1263684,3,1,7,1571726,Bloomington,3,-1.0,29,394900,Single Family Home,4458.0,61705
+522,3404 Stephanie Rd,480854,4,0,5,-1,Bloomington,3,16117.2,25,429900,Single Family Home,4030.0,61704
+523,39 Brookshire Grn,1301728,2,0,3,1280142,Bloomington,2,-1.0,30,169900,Single Family Home,3284.0,61704
+524,3614 Connie Kay Way,1221216,3,1,4,1280142,Bloomington,3,-1.0,30,314900,Single Family Home,3945.0,61704
+525,1302 Watersound Way,1222389,3,0,5,1280142,Bloomington,3,-1.0,30,429900,Single Family Home,5050.0,61705
+526,2718 Gill St,1571741,2,1,3,1571726,Bloomington,2,-1.0,28,155000,Single Family Home,1987.0,61704
+527,1318 Eastport Dr,22772,1,1,3,1295017,Bloomington,2,-1.0,22,145000,Single Family Home,2141.0,61704
+528,1231 E Empire St,964233,1,0,3,1571726,Bloomington,1,16117.2,20,109900,Single Family Home,2620.0,61701
+529,830 W Oakland Ave,1730158,1,0,3,712753,Bloomington,2,-1.0,14,105900,Single Family Home,2462.0,61701
+530,5061/2 N Roosevelt,494617,1,0,3,1571726,Bloomington,1,-1.0,9,28713,Single Family Home,1712.0,61701
+532,3 Hayloft Rd,1295092,3,1,4,1295017,Bloomington,2,-1.0,30,199900,Single Family Home,3335.0,61704
+533,519 W Oakland Ave,1253576,1,1,3,1207437,Bloomington,2,-1.0,30,103900,Single Family Home,2051.0,61701
+534,6 Willowbend Ct,804479,3,1,4,1571726,Bloomington,3,-1.0,30,259000,Single Family Home,3554.0,61705
+535,2804 Mowrey Dr,921514,3,1,5,1280142,Bloomington,3,10890.0,30,415000,Single Family Home,4472.0,61704
+536,402 Chelsea Dr,1295118,3,0,4,1295017,Bloomington,3,17424.0,30,219900,Single Family Home,3726.0,61704
+538,6 Lake Bluff Ct,1855850,2,1,4,1280142,Bloomington,2,-1.0,30,230000,Single Family Home,3762.0,61704
+539,1102 E Monroe St,2046247,3,3,4,712753,Bloomington,3,-1.0,24,409000,Single Family Home,4896.0,61701
+540,1113 W Oakland Ave,591989,1,0,3,1280142,Bloomington,1,-1.0,23,75000,Single Family Home,2613.0,61701
+541,1311 Guiness Dr,6449,3,1,5,1571726,Bloomington,3,-1.0,30,378000,Single Family Home,4451.0,61705
+542,1308 Mount Vernon Dr,1207560,1,1,4,712753,Bloomington,1,-1.0,14,87499,Single Family Home,1702.0,61704
+543,1116 Willow Creek Dr,744586,3,1,5,3054550,Bloomington,3,-1.0,30,324900,Single Family Home,3090.0,61705
+544,1208 Norma Dr,1231308,4,2,7,1295017,Bloomington,3,-1.0,30,599900,Single Family Home,5893.0,61704
+545,6004 Roughleaf Ave,744586,3,1,5,3054550,Bloomington,3,-1.0,30,334900,Single Family Home,3360.0,61705
+546,16 Mackenzie Ct,1893243,4,1,5,712753,Bloomington,3,-1.0,30,425000,Single Family Home,5234.0,61704
+547,903 E Jefferson St,692040,2,1,5,1295017,Bloomington,2,-1.0,30,324900,Single Family Home,4422.0,61701
+548,615 S Clinton St,5295,1,0,3,1207437,Bloomington,1,-1.0,22,94900,Single Family Home,1585.0,61701
+549,601 Seminary Ave,1301728,1,0,3,1280142,Bloomington,1,-1.0,21,77000,Single Family Home,1837.0,61701
+550,9779 Janel Dr,1117728,2,2,4,1571726,Bloomington,3,-1.0,30,439900,Single Family Home,4255.0,61705
+551,3117 Creek Side Rd,7995,2,1,4,3054550,Bloomington,2,-1.0,30,212000,Single Family Home,2980.0,61704
+552,5102 Francesco Ln,1295133,3,1,4,1295017,Bloomington,3,-1.0,30,325000,Single Family Home,3755.0,61705
+553,902 5 W Washington,1938118,2,0,2,1207437,Bloomington,1,-1.0,7,54900,Single Family Home,2450.0,61701
+554,708 S Madison St,1938118,1,0,2,1207437,Bloomington,1,-1.0,6,69000,Single Family Home,1440.0,61701
+555,1804 E Lincoln St,1708364,1,0,3,3054550,Bloomington,2,-1.0,22,119900,Single Family Home,2704.0,61701
+556,6 Melrose Ct,523649,3,0,3,1295017,Bloomington,2,-1.0,21,200000,Single Family Home,3540.0,61704
+557,3211 Stonebridge Dr,744586,2,1,4,3054550,Bloomington,2,-1.0,30,219900,Single Family Home,3395.0,61704
+558,914 W Jefferson St,494617,1,0,3,1571726,Bloomington,1,-1.0,21,58900,Single Family Home,920.0,61701
+559,12 Sunset Rd,1440163,2,1,5,1571726,Bloomington,3,-1.0,19,399000,Single Family Home,2274.0,61701
+560,3007 Thornwood Ln,523649,4,2,5,1295017,Bloomington,4,23522.4,30,535000,Single Family Home,8016.0,61704
+562,407 S Florence Ave,1319879,2,1,3,1571726,Bloomington,2,-1.0,18,152900,Single Family Home,3015.0,61701
+563,1001 W Wood St,5040,1,0,2,1295017,Bloomington,2,-1.0,8,72900,Single Family Home,1914.0,61701
+564,72 Fedor Cir,5296,4,0,5,1571726,Bloomington,3,-1.0,30,299700,Single Family Home,4607.0,61705
+565,904 W Grove St,591989,2,0,4,1280142,Bloomington,2,-1.0,30,75000,Single Family Home,2828.0,61701
+566,809 N Lee St,591989,2,0,4,1280142,Bloomington,1,-1.0,30,75000,Single Family Home,2464.0,61701
+567,2512 Kaitlyn Dr,5184,3,1,5,3054550,Bloomington,3,-1.0,30,328900,Single Family Home,4023.0,61704
+569,1306 S Center St,7995,1,1,4,3054550,Bloomington,2,-1.0,30,122500,Single Family Home,3050.0,61701
+572,6 Carleton Ct,2705739,2,1,4,-1,Bloomington,2,-1.0,13,215000,Single Family Home,2790.0,61704
+574,9 Strawberry Rd,1256002,4,1,5,1207437,Bloomington,3,-1.0,30,424900,Single Family Home,5962.0,61704
+575,1308 W Empire St,1416095,1,0,2,1571726,Bloomington,1,-1.0,25,89900,Single Family Home,1674.0,61701
+577,601 N Allin St,515817,1,0,2,1207437,Bloomington,1,-1.0,6,52900,Single Family Home,1180.0,61701
+579,7 Stoney Ct,523649,4,2,5,1295017,Bloomington,4,-1.0,30,899900,Single Family Home,8541.0,61704
+580,6010 Roughleaf Ave,159571,3,1,5,1571726,Bloomington,3,-1.0,30,299900,Single Family Home,3440.0,61705
+581,1805 Hackberry Rd,1263684,3,2,5,1571726,Bloomington,3,-1.0,30,499900,Single Family Home,4708.0,61704
+582,2811 Degarmo Dr,5174,3,1,5,1207437,Bloomington,3,-1.0,29,389000,Single Family Home,4038.0,61704
+583,913 N Lee St,1295084,2,0,3,1295017,Bloomington,1,-1.0,14,59900,Single Family Home,2100.0,61701
+584,904 N Center St,515811,1,0,2,1295017,Bloomington,1,-1.0,17,41000,Single Family Home,2027.0,61701
+585,9450 Janel Dr,1231308,4,1,5,1295017,Bloomington,3,-1.0,30,475000,Single Family Home,5323.0,61705
+586,1507 E Oakland Ave,43657,2,0,3,1207437,Bloomington,2,-1.0,18,144900,Single Family Home,2952.0,61701
+587,2812 Mowrey Dr,1222389,3,1,5,1280142,Bloomington,3,-1.0,30,392500,Single Family Home,4251.0,61704
+589,2510 Grey Fox Trl,1207568,2,1,4,1207437,Bloomington,2,-1.0,19,244900,Single Family Home,2318.0,61705
+590,6 Cobblestone Ct,1263684,3,1,5,1571726,Bloomington,2,-1.0,1,314900,Single Family Home,4578.0,61704
+594,14 Lavender Ln,4396,4,1,5,1295017,Bloomington,3,-1.0,30,419900,Single Family Home,5028.0,61704
+595,26 Brookshire Grn,4783,2,1,4,1571726,Bloomington,2,-1.0,29,175000,Single Family Home,3076.0,61704
+597,1218 S Mason St,1237791,1,0,2,1295017,Bloomington,1,-1.0,11,92000,Single Family Home,1782.0,61701
+598,2507 Crooked Creek Rd,192211,3,1,4,1280142,Bloomington,3,-1.0,30,399000,Single Family Home,4772.0,61705
+599,2 Ebach Dr,523615,2,2,4,712753,Bloomington,2,-1.0,30,239900,Single Family Home,4162.0,61701
+600,1306 N Linden St,5295,1,0,2,1207437,Bloomington,1,-1.0,16,62400,Single Family Home,732.0,61701
+601,2903 Conlor Dr,523649,2,0,2,1295017,Bloomington,2,-1.0,15,178900,Single Family Home,2450.0,61704
+602,1209 Woodbury Pl,1571736,2,0,3,1571726,Bloomington,2,-1.0,12,164900,Single Family Home,1820.0,61701
+627,1307 S Oak St,172711,1,0,2,1207437,Bloomington,1,-1.0,17,90000,Single Family Home,1652.0,61701
+628,3109 Fiona Way,523674,3,1,5,712753,Bloomington,3,-1.0,30,649900,Single Family Home,5186.0,61704
+629,7 Cloverhill Cir,523649,4,0,4,1295017,Bloomington,3,-1.0,30,339900,Single Family Home,5263.0,61705
+630,1314 W Walnut St,29336,1,1,1,1571726,Bloomington,1,-1.0,9,59900,Single Family Home,2517.0,61701
+631,25 Yotzonot Dr,1068217,3,1,3,1207437,Bloomington,2,-1.0,30,154400,Single Family Home,2394.0,61704
+632,1209 N Western Ave,7995,2,1,3,3054550,Bloomington,2,-1.0,30,98000,Single Family Home,2593.0,61701
+633,705 E Washington St,1118829,2,0,4,1571726,Bloomington,1,-1.0,18,169900,Single Family Home,4390.0,61701
+635,10060 Wolf Hill Rd,523649,4,0,4,1295017,Bloomington,3,30056.4,29,367500,Single Family Home,4522.0,61705
+636,1524 Martin Luther King Dr,1546382,2,0,2,1280142,Bloomington,2,-1.0,17,119900,Single Family Home,1476.0,61701
+637,2507 Slayton Dr,591989,1,1,3,1280142,Bloomington,2,-1.0,30,125000,Single Family Home,2324.0,61704
+638,26 Winding Way,523649,2,0,2,1295017,Bloomington,2,-1.0,15,147500,Single Family Home,2338.0,61705
+640,1805 Woodbine Rd,523674,3,1,4,712753,Bloomington,3,-1.0,30,305900,Single Family Home,4512.0,61704
+641,1503 Sweetbriar Dr,523674,2,1,3,712753,Bloomington,2,-1.0,24,245000,Single Family Home,3532.0,61701
+642,2104 Ridge Creek Dr,159571,3,0,5,1571726,Bloomington,2,-1.0,30,289900,Single Family Home,3820.0,61705
+643,2107 Sinclair Ct,1571741,3,1,5,1571726,Bloomington,3,-1.0,29,459900,Single Family Home,4165.0,61704
+644,1120 Colton Ave,1207554,2,0,4,3054550,Bloomington,1,-1.0,19,124900,Single Family Home,1716.0,61701
+645,1121 E Grove St,494617,3,0,5,1571726,Bloomington,2,-1.0,30,154500,Single Family Home,3676.0,61701
+646,2204 Berrywood Ln,71546,2,1,4,1295017,Bloomington,2,-1.0,30,224000,Single Family Home,3870.0,61704
+650,51 Dry Sage Cir,907561,2,0,3,1295017,Bloomington,2,9583.0,30,227900,Single Family Home,3126.0,61705
+651,504 E Olive St,7995,2,0,3,3054550,Bloomington,2,-1.0,30,134900,Single Family Home,2802.0,61701
+652,3 Briarwood Ave,1194148,2,0,3,-1,Bloomington,1,-1.0,28,154900,Single Family Home,2450.0,61701
+653,1403 Wright St,494617,1,1,3,1571726,Bloomington,1,-1.0,22,87777,Single Family Home,2321.0,61701
+654,104 N Regency Dr,804479,2,1,3,1571726,Bloomington,2,-1.0,30,174900,Single Family Home,3002.0,61701
+655,1302 Winterberry Cir,1365275,3,1,5,1207437,Bloomington,3,-1.0,30,379900,Single Family Home,3745.0,61705
+656,3105 Carrington Ln,523649,3,1,4,1295017,Bloomington,3,26571.6,30,389900,Single Family Home,5250.0,61705
+657,3304 Carrington Ln,1194290,6,2,7,1571726,Bloomington,4,-1.0,30,899900,Single Family Home,9462.0,61705
+658,23 Knollbrook Ct,1987183,3,0,3,1295017,Bloomington,2,-1.0,22,328900,Single Family Home,3716.0,61705
+659,1328 N Mason St,471011,1,0,3,1295017,Bloomington,2,-1.0,12,37900,Single Family Home,1305.0,61701
+660,1905 Dimmitt Ct,1855850,4,0,4,1280142,Bloomington,2,-1.0,30,375000,Single Family Home,5072.0,61704
+661,19336 Inverness Ct,1571738,3,0,4,1571726,Bloomington,2,-1.0,30,216900,Single Family Home,2860.0,61705
+662,1124 Willow Creek Dr,744586,3,1,5,3054550,Bloomington,3,-1.0,29,317900,Single Family Home,3113.0,61705
+663,2110 Woodhavens Dr,1253576,2,0,3,1207437,Bloomington,2,-1.0,27,149900,Single Family Home,2510.0,61701
+664,1403 W Miller St,43657,2,0,3,1207437,Bloomington,2,-1.0,21,122500,Single Family Home,1836.0,61701
+665,2509 Piney Run,1613798,3,0,4,1571726,Bloomington,3,-1.0,30,304000,Single Family Home,3920.0,61705
+667,407 W Locust St,21881,1,1,3,1571726,Bloomington,2,-1.0,21,84900,Single Family Home,2938.0,61701
+668,3211 Brennan Ln,4396,3,1,6,1295017,Bloomington,3,-1.0,30,489900,Single Family Home,5483.0,61704
+669,1511 N Western Ave,2132169,1,0,2,1571726,Bloomington,1,-1.0,20,76500,Single Family Home,1840.0,61701
+670,807 N Oak St,1207568,1,0,2,1207437,Bloomington,1,-1.0,8,27000,Single Family Home,1808.0,61701
+672,14610 Margo Ln,21881,2,0,3,1571726,Bloomington,1,-1.0,17,99900,Single Family Home,1300.0,61705
+673,2406 Timber View Dr,2743947,2,1,3,1280142,Bloomington,2,-1.0,30,164900,Single Family Home,2099.0,61701
+674,712 N Roosevelt Ave,15043,1,1,4,1295017,Bloomington,1,-1.0,23,99900,Single Family Home,2867.0,61701
+675,3609 Baldocchi Dr,1889880,4,1,4,1571726,Bloomington,3,-1.0,23,324900,Single Family Home,3672.0,61704
+676,507 E Jackson St,1440709,1,0,2,712753,Bloomington,1,-1.0,21,64900,Single Family Home,2379.0,61701
+677,802 Reinthaler Rd,-1,1,1,2,-1,Bloomington,2,8276.0,16,122750,Single Family Home,1113.0,61701
+678,84 Crista Ann Ct,29336,3,0,3,1571726,Bloomington,2,-1.0,30,234500,Single Family Home,2896.0,61704
+679,1523 Stoneroller Cir,911852,3,1,5,1280142,Bloomington,3,-1.0,30,315900,Single Family Home,3265.0,61705
+680,1914 Garling Dr,392860,1,0,2,1207437,Bloomington,1,-1.0,15,135000,Single Family Home,1012.0,61701
+681,2108 Currant Ct,4167,4,1,4,1207437,Bloomington,3,-1.0,18,409900,Single Family Home,5886.0,61704
+682,507 Howard St,591989,1,0,2,1280142,Bloomington,1,-1.0,22,40000,Single Family Home,1320.0,61701
+683,1306 Sherman St,1221216,1,0,2,1280142,Bloomington,1,-1.0,19,45000,Single Family Home,1440.0,61701
+684,1506 Calhoun St,1319879,2,0,2,1571726,Bloomington,2,-1.0,10,92900,Single Family Home,2612.0,61701
+685,1508 Calhoun St,1319879,2,0,2,1571726,Bloomington,2,-1.0,7,79900,Single Family Home,2336.0,61701
+686,2912 Conlor Dr,523649,2,0,2,1295017,Bloomington,2,-1.0,17,176900,Single Family Home,2450.0,61704
+687,912 E Walnut St,515817,1,0,2,1207437,Bloomington,2,-1.0,7,74900,Single Family Home,1596.0,61701
+688,3511 Wilder Dr,748021,2,1,3,1207437,Bloomington,2,-1.0,23,147900,Single Family Home,2320.0,61704
+689,7 Edvardinsh Way,1986101,2,1,3,1295017,Bloomington,2,-1.0,30,129900,Single Family Home,1403.0,61701
+690,15 Yotzonot Dr,955915,3,0,3,712753,Bloomington,2,-1.0,28,132000,Single Family Home,2633.0,61704
+691,3622 Baldocchi Dr,1571741,3,1,5,1571726,Bloomington,3,-1.0,29,345000,Single Family Home,4030.0,61704
+692,1201 N Oak St,744586,1,0,2,3054550,Bloomington,1,-1.0,6,54900,Single Family Home,1341.0,61701
+693,904 W Jackson St,2125563,2,0,4,-1,Bloomington,1,-1.0,1,50000,Single Family Home,2300.0,61701
+694,1001 N Western Ave,430485,2,0,3,3054550,Bloomington,2,-1.0,30,99500,Single Family Home,3369.0,61701
+696,909 S Mercer Ave,1295099,1,1,3,1295017,Bloomington,2,-1.0,26,164900,Single Family Home,2650.0,61701
+697,24685 Hickory Ln,5174,2,0,3,1207437,Bloomington,2,-1.0,26,450000,Single Family Home,2238.0,61748
+698,1124 Doral Dr,1329957,3,1,3,1571726,Bloomington,2,-1.0,23,132900,Single Family Home,2220.0,61701
+699,3410 Stephanie Rd,1301728,3,1,5,1280142,Bloomington,3,16117.2,30,355900,Single Family Home,4598.0,61704
+700,1229 Cadwell Dr,1237791,1,1,3,1295017,Bloomington,2,-1.0,12,134500,Single Family Home,2202.0,61704
+701,3902 Rave Rd,591989,3,1,5,1280142,Bloomington,3,-1.0,30,340000,Single Family Home,4359.0,61705
+702,1921 Dunraven Rd,1653754,3,0,3,1571726,Bloomington,2,-1.0,28,254900,Single Family Home,3320.0,61704
+705,2701 Handel Dr,1571741,3,1,4,1571726,Bloomington,3,-1.0,27,297900,Single Family Home,3031.0,61704
+706,905 W Jefferson St,283157,1,0,2,1207437,Bloomington,1,-1.0,14,59999,Single Family Home,2440.0,61701
+707,1115 Elmwood Rd,1263684,3,1,5,1571726,Bloomington,3,-1.0,28,499900,Single Family Home,5276.0,61701
+709,1208 W Walnut St,1855850,1,1,2,1280142,Bloomington,2,-1.0,18,72000,Single Family Home,1657.0,61701
+710,1111 Willow Creek Dr,1263684,3,0,4,1571726,Bloomington,3,-1.0,25,329900,Single Family Home,3490.0,61705
+713,2509 S Bunn St,1345180,2,0,2,-1,Bloomington,2,-1.0,15,134900,Single Family Home,1608.0,61704
+714,406 N Clinton St,1207563,1,0,2,1207437,Bloomington,1,-1.0,16,49900,Single Family Home,1820.0,61701
+716,1702 Bunn St,3026033,2,0,3,-1,Bloomington,2,-1.0,13,120000,Single Family Home,1600.0,61701
+718,11 Megan Ct,1194290,2,1,3,1571726,Bloomington,2,-1.0,30,179900,Single Family Home,2368.0,61705
+720,2019 Interurban Rd,861956,2,0,4,712753,Bloomington,4,27007.2,30,219900,Single Family Home,3463.0,61705
+721,4006 E Oakland Ave,804479,1,0,3,1571726,Bloomington,1,-1.0,23,104900,Single Family Home,1092.0,61704
+722,810 E Taylor St,15043,1,1,3,1295017,Bloomington,1,-1.0,16,84900,Single Family Home,1278.0,61701
+723,1318 Townley Dr,470068,2,0,4,1207437,Bloomington,2,-1.0,27,124900,Single Family Home,2018.0,61704
+724,84 Dry Sage Cir,1207554,3,0,4,3054550,Bloomington,2,-1.0,28,239900,Single Family Home,3154.0,61705
+725,105 Packard St,1646092,2,0,2,3054550,Bloomington,1,-1.0,20,64900,Single Family Home,2433.0,61701
+726,2701 Fox Trot Trl,52451,2,1,3,1207437,Bloomington,2,-1.0,16,145000,Single Family Home,2197.0,61705
+728,111 5 Weldon,1207547,1,0,3,1207437,Bloomington,2,-1.0,20,86500,Single Family Home,1900.0,61701
+729,804 W Locust St,21881,1,0,3,1571726,Bloomington,1,-1.0,19,64900,Single Family Home,1761.0,61701
+730,3916 Lay Ln,1855850,3,1,5,1280142,Bloomington,3,-1.0,30,325000,Single Family Home,3837.0,61705
+731,3616 Connie Kay Way,1571741,3,0,4,1571726,Bloomington,3,-1.0,27,336000,Single Family Home,4116.0,61704
+732,2810 Morningside Dr,1319879,2,1,3,1571726,Bloomington,2,-1.0,19,159500,Single Family Home,2694.0,61704
+734,1015 Folsom St,22772,2,0,3,1295017,Bloomington,2,-1.0,23,87500,Single Family Home,2099.0,61701
+735,1315 W Market St,-1,1,0,3,-1,Bloomington,1,6534.0,18,53000,Single Family Home,2212.0,61701
+736,1 Cherrywood Ln,1222389,2,1,5,1280142,Bloomington,2,-1.0,1,253000,Single Family Home,3200.0,61701
+737,4 Yukon Cir,2055892,3,0,3,-1,Bloomington,2,-1.0,30,239900,Single Family Home,3224.0,61705
+738,3706 Baldocchi Dr,1613798,2,1,4,1571726,Bloomington,3,-1.0,30,249900,Single Family Home,3780.0,61704
+739,1207 Staghorne Way,1207554,3,1,5,3054550,Bloomington,3,-1.0,30,334900,Single Family Home,3476.0,61705
+740,23 Oak Park Rd,523649,2,1,3,1295017,Bloomington,2,-1.0,27,150000,Single Family Home,1983.0,61701
+742,1214 S Mason St,7995,2,0,3,3054550,Bloomington,2,-1.0,16,79900,Single Family Home,1190.0,61701
+743,208 S State St,1440709,1,1,3,712753,Bloomington,2,-1.0,26,163500,Single Family Home,2148.0,61701
+745,2514 Grey Fox Trl,5174,3,1,4,1207437,Bloomington,2,-1.0,25,249900,Single Family Home,2892.0,61705
+746,5010 Longfield Rd,1231308,3,1,5,1295017,Bloomington,3,-1.0,30,344900,Single Family Home,3680.0,61705
+747,1624 Iowa St,2296095,2,0,3,1280142,Bloomington,1,-1.0,1,111500,Single Family Home,1388.0,61701
+748,1616 Indiana St,1887422,1,1,3,1571726,Bloomington,2,-1.0,21,74000,Single Family Home,1550.0,61701
+749,2207 Altoona Rd,3054675,3,0,3,3054550,Bloomington,2,-1.0,1,140000,Single Family Home,2233.0,61705
+751,2911 Conlor Dr,1231308,2,1,3,1295017,Bloomington,2,-1.0,30,195000,Single Family Home,2674.0,61704
+752,508 W Jackson St,1388808,1,0,2,712753,Bloomington,1,-1.0,26,62500,Single Family Home,1872.0,61701
+753,2 Scofield Ct,4396,3,1,4,1295017,Bloomington,3,-1.0,30,265000,Single Family Home,3778.0,61704
+755,3620 Baldocchi Dr,523649,3,1,5,1295017,Bloomington,3,-1.0,30,299800,Single Family Home,3987.0,61704
+757,1205 W Grove St,494617,2,0,4,1571726,Bloomington,1,-1.0,30,133900,Single Family Home,2530.0,61701
+758,1218 Dogwood Ln,486538,1,0,3,-1,Bloomington,2,-1.0,18,99900,Single Family Home,963.0,61704
+759,3210 Trumpet Ln,283157,4,0,6,1207437,Bloomington,3,-1.0,30,389999,Single Family Home,5684.0,61704
+760,8 Brookridge Ct,523649,3,1,4,1295017,Bloomington,3,-1.0,30,440000,Single Family Home,4471.0,61704
+761,314 S Hershey Rd,1207544,2,1,3,1207437,Bloomington,2,-1.0,30,189900,Single Family Home,3376.0,61704
+762,1305 N Oak St,7995,1,1,3,3054550,Bloomington,1,-1.0,30,95000,Single Family Home,1100.0,61701
+763,2902 Conlor Dr,803691,3,0,3,1295017,Bloomington,2,-1.0,1,250000,Single Family Home,2694.0,61704
+764,813 E Empire St,1319879,1,0,2,1571726,Bloomington,2,-1.0,11,69900,Single Family Home,1120.0,61701
+769,4 Timbers Ct,283157,3,0,4,1207437,Bloomington,3,13068.0,23,369990,Single Family Home,3670.0,61701
+770,206 S Mason St,7995,2,0,5,3054550,Bloomington,1,-1.0,14,46900,Single Family Home,2093.0,61701
+772,12 Canterbury Ct,5181,3,1,4,-1,Bloomington,2,-1.0,19,266500,Single Family Home,5046.0,61701
+775,216 Meadowbrook Dr,1855850,1,0,3,1280142,Bloomington,1,-1.0,16,102900,Single Family Home,1088.0,61701
+776,1901 Dimmitt Ct,921514,3,1,4,1280142,Bloomington,3,-1.0,30,309900,Single Family Home,3850.0,61704
+777,1122 E Taylor St,1200611,1,0,2,1571726,Bloomington,2,-1.0,25,119000,Single Family Home,2184.0,61701
+778,14 Winding Way,523649,2,0,3,1295017,Bloomington,2,-1.0,23,159900,Single Family Home,2220.0,61705
+780,18962 Terrace Valley Dr,1388808,2,0,3,712753,Bloomington,2,26571.6,27,164900,Single Family Home,2496.0,61705
+782,7051/2 E Douglas,1805631,1,0,3,1571726,Bloomington,1,-1.0,26,63900,Single Family Home,1980.0,61701
+783,10901 Melton Dr,1219877,1,1,3,-1,Bloomington,3,-1.0,23,142500,Single Family Home,1818.0,61705
+784,2816 Breezewood Blvd,1295094,2,1,4,1207437,Bloomington,2,-1.0,15,184900,Single Family Home,2588.0,61704
+785,1208 W Olive St,861956,1,1,2,712753,Bloomington,1,-1.0,14,61900,Single Family Home,1290.0,61701
+786,3001 Joseph St,21881,1,0,3,1571726,Bloomington,2,-1.0,17,96900,Single Family Home,1409.0,61704
+787,1009 Folsom St,1571741,2,0,3,1571726,Bloomington,2,-1.0,20,117000,Single Family Home,2440.0,61701
+789,10096 Walker School Rd,692040,2,1,3,1295017,Bloomington,5,-1.0,29,280000,Single Family Home,4101.0,61705
+790,48 Parkshores Dr,15043,3,0,2,1295017,Bloomington,2,-1.0,20,129900,Single Family Home,2208.0,61701
+791,1119 E Monroe St,744586,3,1,4,3054550,Bloomington,2,-1.0,30,424900,Single Family Home,3795.0,61701
+792,708 W Locust St,7995,3,0,4,3054550,Bloomington,1,-1.0,28,68900,Single Family Home,3130.0,61701
+801,12 Strawberry Rd,1295086,4,1,5,1295017,Bloomington,3,-1.0,30,369900,Single Family Home,4600.0,61704
+802,1909 Dunraven Rd,911852,2,0,2,1280142,Bloomington,2,-1.0,21,257900,Single Family Home,3188.0,61704
+803,301 Gray Ave,1118829,1,0,2,1571726,Bloomington,2,-1.0,5,82000,Single Family Home,1812.0,61701
+804,613 W Locust St,392860,1,0,3,1207437,Bloomington,1,-1.0,22,77500,Single Family Home,2544.0,61701
+805,606 S McLean St,172711,1,1,3,1207437,Bloomington,1,-1.0,27,109900,Single Family Home,2118.0,61701
+808,2001 Woodbine Rd,1118829,2,1,4,1571726,Bloomington,3,-1.0,30,299900,Single Family Home,4472.0,61704
+809,603 W Jefferson St,494617,2,0,5,1571726,Bloomington,2,-1.0,18,72500,Single Family Home,1653.0,61701
+811,506 N Mason St,1938118,1,0,3,1207437,Bloomington,1,-1.0,1,56900,Single Family Home,1328.0,61701
+812,701 E Market St,1200611,2,0,3,1571726,Bloomington,1,-1.0,29,79900,Single Family Home,2642.0,61701
+813,2504 Keystone Rd,1295094,3,1,4,1207437,Bloomington,3,-1.0,30,254900,Single Family Home,4647.0,61704
+814,40 Sunset Rd,283157,2,1,4,1207437,Bloomington,2,-1.0,28,379990,Single Family Home,2900.0,61701
+815,317 E Mulberry St,860512,1,0,2,712753,Bloomington,1,-1.0,17,52500,Single Family Home,1888.0,61701
+816,1913 Crimson Ln,182757,2,1,4,1571726,Bloomington,3,-1.0,22,289000,Single Family Home,4976.0,61704
+817,13937 Benjamin Ct,111130,3,0,5,1207437,Bloomington,2,43995.6,27,269000,Single Family Home,3443.0,61705
+818,102 Fairway Dr,2047335,2,1,3,712753,Bloomington,2,-1.0,30,139500,Single Family Home,3188.0,61701
+820,25 Bent Ct,1279681,2,1,3,1571726,Bloomington,2,-1.0,27,399900,Single Family Home,4159.0,61704
+822,913 W Jefferson St,1938118,1,0,2,1207437,Bloomington,1,-1.0,1,29900,Single Family Home,1832.0,61701
+824,1005 Bach Dr,430485,2,1,3,3054550,Bloomington,2,-1.0,30,259900,Single Family Home,2989.0,61704
+825,2210 Riverwoods Ln,5184,3,1,5,3054550,Bloomington,3,-1.0,30,439900,Single Family Home,4272.0,61705
+826,56 Country Club Pl,1440163,4,1,5,1571726,Bloomington,3,-1.0,30,759900,Single Family Home,5944.0,61701
+827,15986 Pebble Beach Rd,-1,4,0,4,-1,Bloomington,1,179031.6,23,534900,Single Family Home,2725.0,61705
+829,3903 Watertown Ln,22772,3,1,5,1295017,Bloomington,3,-1.0,30,349900,Single Family Home,4088.0,61705
+831,1302 Jolene Dr,1388808,3,1,5,712753,Bloomington,3,-1.0,30,365000,Single Family Home,4014.0,61704
+832,1116 W Oakland Ave,15043,1,0,3,1295017,Bloomington,1,-1.0,16,77900,Single Family Home,1917.0,61701
+834,122 Maizefield Ave,1231308,1,0,2,1295017,Bloomington,1,-1.0,30,110000,Single Family Home,1916.0,61701
+835,423 Priscilla Ln,1207547,1,0,3,1207437,Bloomington,2,-1.0,15,89500,Single Family Home,1364.0,61704
+836,411 S Hinshaw,1938118,1,0,2,1207437,Bloomington,1,-1.0,1,30000,Single Family Home,1428.0,61701
+839,702 N Roosevelt Ave,1118829,1,0,2,1571726,Bloomington,1,-1.0,27,68000,Single Family Home,1794.0,61701
+844,1710 Glenbridge Rd,1194290,2,1,3,1571726,Bloomington,2,-1.0,27,135000,Single Family Home,2250.0,61704
+845,217 Mays Dr,744586,2,1,5,3054550,Bloomington,2,-1.0,30,324900,Single Family Home,3535.0,61701
+846,54 Country Club Pl,744586,4,1,4,3054550,Bloomington,3,15681.6,30,1100000,Single Family Home,7067.0,61701
+847,14053 Rhodes Rd,4783,3,1,4,1571726,Bloomington,3,57063.60000000001,30,294500,Single Family Home,4151.0,61705
+850,1803 Dimmitt Ct,283157,3,1,6,1207437,Bloomington,3,-1.0,30,469999,Single Family Home,4946.0,61704
+851,1127 Doral Dr,1118829,2,1,3,1571726,Bloomington,2,-1.0,16,135000,Single Family Home,2224.0,61701
+852,3 Sunset Rd,5040,2,1,4,1295017,Bloomington,2,76230.0,27,499900,Single Family Home,3625.0,61701
+853,2514 Piney Run,21881,3,1,5,1571726,Bloomington,3,-1.0,30,354900,Single Family Home,3652.0,61705
+854,10 Stoney Ct,159571,2,1,5,1571726,Bloomington,4,-1.0,30,384500,Single Family Home,3926.0,61704
+855,611 E Mulberry St,7995,1,1,4,3054550,Bloomington,1,-1.0,29,88900,Single Family Home,1752.0,61701
+856,8 Worthington Ct,1263684,4,1,6,1571726,Bloomington,3,-1.0,30,949900,Single Family Home,8336.0,61704
+857,9668 Crossbow Dr,2000106,3,1,4,1571726,Bloomington,3,46173.60000000001,30,399000,Single Family Home,4234.0,61705
+858,2506 Monica Ln,1194290,2,0,3,1571726,Bloomington,2,-1.0,30,209900,Single Family Home,3234.0,61705
+865,2524 W Market St,861956,4,0,4,712753,Bloomington,3,63162.0,28,311900,Single Family Home,2424.0,61705
+866,1913 Dunraven Rd,911852,3,0,3,1280142,Bloomington,2,-1.0,24,259900,Single Family Home,3188.0,61704
+867,1810 Dunraven Rd,911852,2,1,3,1280142,Bloomington,2,-1.0,23,224500,Single Family Home,3036.0,61704
+868,1812 Dunraven Rd,911852,2,1,3,1280142,Bloomington,2,-1.0,21,224500,Single Family Home,3036.0,61704
+874,114 S Mercer Ave,1231308,2,0,3,1295017,Bloomington,2,-1.0,30,205000,Single Family Home,2835.0,61701
+875,1001 Gerike Way,579782,2,0,3,1571726,Bloomington,2,-1.0,19,214900,Single Family Home,3180.0,61704
+876,19900 Jared Dr,1231324,3,1,4,1571726,Bloomington,3,-1.0,26,515000,Single Family Home,4845.0,61705
+879,2006 Woodhavens Dr,591989,2,0,3,1280142,Bloomington,1,-1.0,24,100000,Single Family Home,1812.0,61701
+882,1701 Indiana St,964233,1,0,3,1571726,Bloomington,1,8712.0,13,61900,Single Family Home,1736.0,61701
+883,1507 S Mason St,964233,2,0,3,1571726,Bloomington,2,-1.0,1,104500,Single Family Home,1670.0,61701
+884,2 Brookridge Ct,5176,5,1,6,1207437,Bloomington,3,14810.4,30,595000,Single Family Home,8311.0,61704
+888,115 Parkview Dr,1207570,2,1,4,1207437,Bloomington,2,-1.0,27,187000,Single Family Home,2552.0,61701
+891,505 S Hinshaw,1193279,1,0,2,1571726,Bloomington,1,-1.0,11,49900,Single Family Home,1300.0,61701
+892,3301 Wisteria Ln,5176,4,2,4,1207437,Bloomington,3,-1.0,30,599900,Single Family Home,5870.0,61704
+893,1110 N Clinton Blvd,1416095,1,1,3,1571726,Bloomington,2,-1.0,30,239900,Single Family Home,2952.0,61701
+896,1229 Sandburg Dr,1194290,2,1,3,1571726,Bloomington,2,-1.0,30,94900,Single Family Home,1667.0,61704
+897,27 Prairie Vista Ct,1222389,3,0,3,1280142,Bloomington,2,-1.0,28,324900,Single Family Home,3590.0,61704
+900,59 Stonebrook Ct,4396,4,1,5,1295017,Bloomington,3,-1.0,30,459000,Single Family Home,5429.0,61704
+902,1310 Ewing St,55767,2,0,3,-1,Bloomington,2,-1.0,2,65000,Single Family Home,2304.0,61701
+914,505 W Chestnut St,55767,2,0,5,-1,Bloomington,1,6970.0,3,64900,Single Family Home,2200.0,61701
+921,3038 Ann Dr,1207554,3,0,4,1207437,Bloomington,2,-1.0,20,139900,Single Family Home,2214.0,61704
+939,1607 N Linden St,1548431,2,0,3,1280142,Normal,2,-1.0,30,162500,Single Family Home,2568.0,61761
+940,202 S Parkside Rd,591989,1,1,3,1280142,Normal,2,-1.0,25,149900,Single Family Home,1834.0,61761
+941,7 Wilmette Dr,1221216,1,1,3,1280142,Normal,1,-1.0,24,130000,Single Family Home,1876.0,61761
+942,2701 Limestone Ct,911852,2,1,4,1280142,Normal,3,-1.0,2,299900,Single Family Home,3190.0,61761
+943,2710 Shepard Rd,911852,2,1,3,1280142,Normal,2,-1.0,1,267900,Single Family Home,2846.0,61761
+944,1004 Chippewa St,430485,2,1,3,3054550,Normal,2,-1.0,30,159900,Single Family Home,3102.0,61761
+945,107 Hammitt Dr,6449,3,1,5,1571726,Normal,2,-1.0,22,149900,Single Family Home,3588.0,61761
+946,1812 Partridge Pt,1237791,2,1,4,1295017,Normal,3,-1.0,13,245000,Single Family Home,3276.0,61761
+947,1103 Turtle Crk,1855850,3,1,4,1280142,Normal,3,-1.0,30,280000,Single Family Home,3720.0,61761
+948,1077 Harmony Way,1329957,3,1,5,1571726,Normal,3,-1.0,30,274900,Single Family Home,3378.0,61761
+949,902 Green Ave,1646092,1,0,3,3054550,Normal,2,-1.0,27,115000,Single Family Home,952.0,61761
+950,1102 Westview Dr,1301728,2,0,3,1280142,Normal,2,-1.0,26,163000,Single Family Home,2576.0,61761
+951,1405 Searle Dr,1279681,1,1,3,1571726,Normal,1,-1.0,21,104900,Single Family Home,1819.0,61761
+952,1606A Beech St,1295099,3,0,2,1295017,Normal,2,-1.0,13,124900,Single Family Home,1740.0,61761
+953,1034 Stags Leap Rd,1548431,2,1,4,1280142,Normal,2,-1.0,1,284880,Single Family Home,3167.0,61761
+954,3012 Bear Claw St,7995,2,1,4,3054550,Normal,3,-1.0,30,235000,Single Family Home,3088.0,61761
+955,1611 Tompkins Dr,7995,3,0,3,3054550,Normal,2,-1.0,30,162900,Single Family Home,3986.0,61761
+956,103 William Dr,21881,2,1,4,1571726,Normal,1,-1.0,27,146900,Single Family Home,2016.0,61761
+957,1111 Abercorn St,1427353,2,0,4,1280142,Normal,2,-1.0,23,146000,Single Family Home,2134.0,61761
+958,118 N Blair Dr,6449,3,1,4,1571726,Normal,2,-1.0,22,189000,Single Family Home,3357.0,61761
+959,318 Raleigh Ct,430485,3,0,4,3054550,Normal,2,-1.0,30,169900,Single Family Home,2373.0,61761
+960,1001 Turtle Crk,283157,3,1,4,1207437,Normal,3,-1.0,24,289999,Single Family Home,3956.0,61761
+961,1198 Onyx Ln,881654,3,1,3,1280142,Normal,2,-1.0,23,185000,Single Family Home,2446.0,61761
+963,401 Ironwood,1101631,3,1,4,712753,Normal,3,-1.0,30,419000,Single Family Home,4506.0,61761
+964,410 Labrador Ln,1237791,3,1,4,1295017,Normal,2,-1.0,25,239900,Single Family Home,2561.0,61761
+965,1408 Montgomery St,29336,2,1,3,1571726,Normal,2,-1.0,19,127500,Single Family Home,2793.0,61761
+966,205 Gregory St,744586,2,0,3,3054550,Normal,1,-1.0,30,144900,Single Family Home,2118.0,61761
+967,104 E Vernon Ave,1501366,1,1,3,3054550,Normal,2,-1.0,30,154900,Single Family Home,2307.0,61761
+968,28 Ethell Pkwy,1207564,1,1,3,1207437,Normal,1,-1.0,26,124900,Single Family Home,1976.0,61761
+969,227 Belview Ave,1709801,2,1,3,1280142,Normal,1,-1.0,19,145000,Single Family Home,2192.0,61761
+972,1417 Hull St,1613798,3,1,3,1571726,Normal,2,-1.0,30,159900,Single Family Home,2883.0,61761
+973,2326 Clifton Ct,1237791,3,1,5,1295017,Normal,3,-1.0,30,319900,Single Family Home,4274.0,61761
+974,911 Apple St,1194290,3,0,3,1571726,Normal,2,-1.0,22,149900,Single Family Home,2472.0,61761
+976,1628 Belclare Rd,1319879,2,1,3,1571726,Normal,2,-1.0,18,174900,Single Family Home,2385.0,61761
+977,906 S Cottage Ave,1231308,1,0,3,1295017,Normal,1,-1.0,18,89900,Single Family Home,1736.0,61761
+978,103 Doud Ct,111130,2,1,4,1207437,Normal,2,-1.0,17,149900,Single Family Home,2441.0,61761
+979,1202 N Walnut St,283157,2,0,3,1207437,Normal,2,-1.0,19,159999,Single Family Home,2488.0,61761
+980,2974 Benson Ln,1571756,3,0,3,712753,Normal,2,-1.0,30,189900,Single Family Home,2972.0,61761
+981,1031 Decoy Ct,1279681,3,1,4,1571726,Normal,2,-1.0,30,279900,Single Family Home,3140.0,61761
+982,800 Normal Ave,692040,2,1,4,1295017,Normal,4,-1.0,25,184900,Single Family Home,2938.0,61761
+983,507 Marian Ave,1207560,1,0,3,712753,Normal,2,-1.0,24,134900,Single Family Home,2522.0,61761
+985,1311 Bryce Ct,1855850,3,1,5,1280142,Normal,2,-1.0,30,230000,Single Family Home,2806.0,61761
+986,2972 Bear Claw St,1440709,3,1,4,712753,Normal,2,-1.0,28,234900,Single Family Home,3232.0,61761
+987,2945 E Raab Rd,1231308,2,0,3,1295017,Normal,2,-1.0,24,169900,Single Family Home,2654.0,61761
+988,240 Parktrail Rd,5174,2,1,4,1207437,Normal,2,-1.0,9,118900,Single Family Home,2016.0,61761
+989,801 N Linden St,1295086,3,1,5,1295017,Normal,2,-1.0,30,229900,Single Family Home,5226.0,61761
+990,300 Thicket Pt,1450930,2,0,3,1571726,Normal,2,-1.0,30,249900,Single Family Home,3482.0,61761
+991,1613 Brougham St,2208869,2,1,4,1280142,Normal,6,-1.0,30,205000,Single Family Home,2688.0,61761
+992,710 Hester Ave,2202955,1,1,4,1280142,Normal,2,-1.0,18,135000,Single Family Home,2346.0,61761
+993,1904 Park West Dr,6449,3,0,3,1571726,Normal,2,-1.0,15,141900,Single Family Home,2196.0,61761
+994,1402 Hovey Ave,804479,1,0,3,1571726,Normal,1,-1.0,24,94500,Single Family Home,1056.0,61761
+995,25 Norwood Dr,1207547,1,0,4,1207437,Normal,1,-1.0,16,104500,Single Family Home,1264.0,61761
+996,15 Clinton Pl,5296,3,0,4,1571726,Normal,2,-1.0,30,204900,Single Family Home,2904.0,61761
+997,1509 Olmsted Rd,6449,3,1,5,1571726,Normal,3,-1.0,30,264500,Single Family Home,3863.0,61761
+998,206 Adelaide,6449,2,1,4,1571726,Normal,1,-1.0,30,147000,Single Family Home,2640.0,61761
+999,1212 Broadway,5296,2,1,5,1571726,Normal,2,-1.0,30,319900,Single Family Home,3749.0,61761
+1000,1810 Loblolly Dr,111130,3,1,4,1207437,Normal,3,-1.0,26,329000,Single Family Home,2644.0,61761
+1001,1718 Flagstone Dr,21881,3,1,5,1571726,Normal,3,-1.0,23,249900,Single Family Home,3022.0,61761
+1002,916 S Linden St,111130,2,0,2,1207437,Normal,2,-1.0,21,144900,Single Family Home,1772.0,61761
+1003,1002 Kern St,1295099,1,0,2,1295017,Normal,1,-1.0,19,80000,Single Family Home,823.0,61761
+1004,110 S Orr Dr,758933,3,0,4,-1,Normal,2,10018.8,16,124900,Single Family Home,2324.0,61761
+1005,807 Weatherby Way,1346837,4,0,4,1280142,Normal,2,-1.0,1,435400,Single Family Home,3801.0,61761
+1006,1042 Stags Leap Rd,1346837,2,1,4,1280142,Normal,3,-1.0,1,291297,Single Family Home,3547.0,61761
+1007,808 Weatherby Way,1346837,2,0,2,1280142,Normal,2,-1.0,1,398340,Single Family Home,3476.0,61761
+1008,1040 Stags Leap Rd,1346837,2,0,3,1280142,Normal,2,-1.0,1,285906,Single Family Home,3120.0,61761
+1009,1307 Ironwood Cc Dr,1193279,3,0,3,1571726,Normal,3,-1.0,30,284900,Single Family Home,3595.0,61761
+1010,1187 Blue Bill Way,1329957,2,1,3,1571726,Normal,2,-1.0,29,176900,Single Family Home,2875.0,61761
+1011,1203 Sawgrass Dr,5295,2,1,3,1207437,Normal,2,-1.0,30,184900,Single Family Home,2636.0,61761
+1012,1206 Roland Dr,430485,1,1,3,3054550,Normal,1,-1.0,30,148500,Single Family Home,2362.0,61761
+1013,19906 E 1600 North Rd,523674,2,1,4,712753,Normal,3,239580.0,28,399900,Single Family Home,4080.0,61761
+1015,1061 Geyser Peak Rd,192211,2,1,4,1280142,Normal,2,-1.0,25,230000,Single Family Home,3009.0,61761
+1016,3 Alexander Ct,1295089,3,0,3,1295017,Normal,1,-1.0,28,177500,Single Family Home,2543.0,61761
+1017,2245 Holbrook Dr,1346837,2,0,3,1280142,Normal,3,10890.0,25,284900,Single Family Home,3390.0,61761
+1018,1165 Duck Horn Dr,15043,2,1,3,1295017,Normal,2,-1.0,24,219900,Single Family Home,2602.0,61761
+1019,223 Orlando Ave,1207563,2,0,4,1207437,Normal,1,-1.0,19,147500,Single Family Home,2040.0,61761
+1020,1712 Coralstone Way,911852,3,1,4,1280142,Normal,3,-1.0,2,267000,Single Family Home,2899.0,61761
+1021,1722 Coralstone Way,911852,3,1,4,1280142,Normal,2,-1.0,2,264000,Single Family Home,2899.0,61761
+1022,1013 Porter Ln,763456,3,0,4,1295017,Normal,2,-1.0,30,164900,Single Family Home,2686.0,61761
+1023,3251 Butterfly Dr,182757,2,1,4,1571726,Normal,2,-1.0,23,237500,Single Family Home,2878.0,61761
+1024,5 Boone Ct,1376376,2,0,3,1295017,Normal,2,-1.0,18,149900,Single Family Home,2076.0,61761
+1025,1219 Roland Dr,1571756,2,0,3,712753,Normal,2,-1.0,30,129900,Single Family Home,2268.0,61761
+1026,1200 Russell St,1194290,3,0,3,1571726,Normal,2,-1.0,30,129900,Single Family Home,2520.0,61761
+1027,501 S Blair Dr,1319879,2,0,3,1571726,Normal,2,-1.0,21,157900,Single Family Home,3508.0,61761
+1097,2359 Corrigan Way,5040,2,1,4,1295017,Normal,2,-1.0,30,239500,Single Family Home,3324.0,61761
+1098,2245 Chase Ln,1653756,2,0,3,712753,Normal,2,-1.0,24,219900,Single Family Home,3624.0,61761
+1099,1819 Setter St,22772,3,0,3,1295017,Normal,2,-1.0,22,239900,Single Family Home,2808.0,61761
+1100,507 Manchester Rd,1956224,2,0,3,712753,Normal,1,-1.0,18,138500,Single Family Home,1547.0,61761
+1101,1101 Whitaker St,523674,2,0,4,712753,Normal,2,-1.0,1,145900,Single Family Home,2304.0,61761
+1102,818 Jersey Ave,744586,3,0,4,3054550,Normal,3,-1.0,30,319900,Single Family Home,6953.0,61761
+1103,1407 Bird Ct,1708364,3,0,4,3054550,Normal,2,-1.0,30,244900,Single Family Home,3274.0,61761
+1106,109 Nottingham Chase,1501366,2,0,3,3054550,Normal,1,-1.0,30,135000,Single Family Home,1483.0,61761
+1107,1011 Norwood Dr,1221216,3,0,3,1280142,Normal,2,-1.0,29,159000,Single Family Home,3300.0,61761
+1108,1102 Chippewa St,159571,2,1,4,1571726,Normal,2,-1.0,30,159900,Single Family Home,3414.0,61761
+1109,1309 Heritage Rd E,5295,2,1,4,1207437,Normal,2,-1.0,29,165000,Single Family Home,2025.0,61761
+1110,2700 Fieldstone Ct,523649,3,1,5,1295017,Normal,3,-1.0,28,325000,Single Family Home,4033.0,61761
+1111,908 S Adelaide St,7995,2,0,2,3054550,Normal,1,-1.0,30,110000,Single Family Home,2200.0,61761
+1113,1010 Ironwood,1571763,3,1,4,1571726,Normal,3,-1.0,30,259900,Single Family Home,4186.0,61761
+1114,1109 Kings Mill Rd,1101631,2,1,4,712753,Normal,2,-1.0,30,164900,Single Family Home,2838.0,61761
+1115,2225 N Bridge Dr,523615,2,1,4,712753,Normal,3,-1.0,30,309000,Single Family Home,4056.0,61761
+1116,1509 Tamarack Cc Trl,748021,3,1,6,1207437,Normal,3,-1.0,27,314900,Single Family Home,5200.0,61761
+1117,902 S Cottage Ave,2925148,1,0,3,-1,Normal,2,-1.0,27,109900,Single Family Home,2016.0,61761
+1118,815 Sheridan Rd,1571756,1,1,3,712753,Normal,1,-1.0,26,147500,Single Family Home,2268.0,61761
+1119,818 Manchester Dr,43657,2,0,2,1207437,Normal,1,-1.0,18,109500,Single Family Home,2052.0,61761
+1120,1011 Kings Mill Rd,1887423,2,2,4,1207437,Normal,2,-1.0,30,210000,Single Family Home,3004.0,61761
+1121,1163 Blue Bill Way,523649,2,1,3,1295017,Normal,2,-1.0,15,169900,Single Family Home,2779.0,61761
+1122,1326 Dillon Dr,1805631,1,1,4,1571726,Normal,1,-1.0,8,105000,Single Family Home,1169.0,61761
+1123,906 Crestline Dr,4165,2,1,5,1207437,Normal,2,22651.2,30,219999,Single Family Home,3783.0,61761
+1124,206 Parktrail Rd,2740227,2,1,3,712753,Normal,2,-1.0,24,120000,Single Family Home,1695.0,61761
+1125,1817 Truman Dr,21881,1,1,4,1571726,Normal,1,-1.0,18,129900,Single Family Home,1638.0,61761
+1127,706 N Fell Ave,1501366,1,1,2,3054550,Normal,2,-1.0,30,129900,Single Family Home,1637.0,61761
+1128,6 Clinton Pl,692040,2,2,4,1295017,Normal,2,-1.0,30,319900,Single Family Home,3561.0,61761
+1129,1502 Ironwood,1279681,3,1,4,1571726,Normal,3,-1.0,27,249900,Single Family Home,3548.0,61761
+1131,2514 Shepard Rd,2993191,3,1,4,1295017,Normal,2,-1.0,30,259900,Single Family Home,3055.0,61761
+1132,302 E Poplar St,1193279,2,1,3,1571726,Normal,1,-1.0,26,127900,Single Family Home,1984.0,61761
+1133,1613 Cutter Ct,1571752,2,1,3,1571726,Normal,2,-1.0,25,154000,Single Family Home,1967.0,61761
+1134,2267 Heather Ridge Dr,425443,2,2,4,1571726,Normal,3,-1.0,27,269900,Single Family Home,3302.0,61761
+1135,1716 Braden Dr,748021,2,0,4,1207437,Normal,2,-1.0,26,153900,Single Family Home,2648.0,61761
+1136,214 Foster Dr,5295,2,0,3,1207437,Normal,2,-1.0,17,125000,Single Family Home,3048.0,61761
+1137,1407 Hull St,2743947,3,1,4,1280142,Normal,2,-1.0,30,149900,Single Family Home,2748.0,61761
+1138,306 Augustine Way,7995,3,1,5,3054550,Normal,2,-1.0,30,240000,Single Family Home,4600.0,61761
+1139,703 Cullom St,1501366,1,0,2,3054550,Normal,1,-1.0,30,99000,Single Family Home,1900.0,61761
+1140,201 Sandra Ln,1295092,2,0,3,1295017,Normal,2,13503.6,30,134900,Single Family Home,1616.0,61761
+1141,1307 Beacon Hill Ct,744586,2,1,2,3054550,Normal,2,-1.0,30,149900,Single Family Home,2231.0,61761
+1142,101 Anthony Dr,955915,3,0,4,712753,Normal,2,-1.0,28,209900,Single Family Home,3718.0,61761
+1143,1195 Lodge Pole Ln,1846189,2,1,5,1295017,Normal,2,-1.0,26,219000,Single Family Home,3185.0,61761
+1144,201 Harter Ln,65952,2,0,3,1571726,Normal,1,-1.0,30,152500,Single Family Home,2366.0,61761
+1145,1500 Aurora Way,579783,1,0,3,1571726,Normal,1,-1.0,30,119500,Single Family Home,1409.0,61761
+1146,3013 Three Eagles St,1279681,2,1,4,1571726,Normal,2,-1.0,29,229900,Single Family Home,3574.0,61761
+1147,2181 Dawson Dr,591989,3,0,3,1280142,Normal,2,-1.0,28,150000,Single Family Home,2290.0,61761
+1148,1206 N School St,1222389,1,1,3,1280142,Normal,2,-1.0,24,159900,Single Family Home,1992.0,61761
+1149,302 Robert Dr,692040,2,2,4,1295017,Normal,2,-1.0,23,164000,Single Family Home,2584.0,61761
+1150,1813 Truman Dr,1329957,2,0,4,1571726,Normal,1,-1.0,1,132500,Single Family Home,2014.0,61761
+1151,901 E Shelbourne Dr,4783,2,1,3,1571726,Normal,2,-1.0,30,129500,Single Family Home,2748.0,61761
+1152,1327 Lismore Ln,1231308,2,2,3,1295017,Normal,2,-1.0,25,189900,Single Family Home,2058.0,61761
+1153,1332 Dillon Dr,1237791,1,1,4,1295017,Normal,1,-1.0,23,115000,Single Family Home,1206.0,61761
+1154,454 Fort Kendall,1231308,3,1,5,1295017,Normal,4,-1.0,1,356290,Single Family Home,3528.0,61761
+1155,302 Fieldcrest Ct,392860,3,0,3,1207437,Normal,2,-1.0,30,195000,Single Family Home,2206.0,61761
+1156,302 N Coolidge St,1207544,2,0,3,1207437,Normal,2,-1.0,27,159900,Single Family Home,3278.0,61761
+1157,1808 Partridge Pt,129980,3,1,4,1280142,Normal,3,-1.0,27,285000,Single Family Home,4304.0,61761
+1158,2850 Grey Hawk Dr,1805631,3,1,5,1571726,Normal,3,-1.0,30,269900,Single Family Home,3296.0,61761
+1159,8 Hawthorne Dr,430485,2,0,3,3054550,Normal,1,-1.0,30,153000,Single Family Home,2360.0,61761
+1161,1336 Petaluma Dr,1501366,2,1,4,3054550,Normal,2,-1.0,30,239900,Single Family Home,3250.0,61761
+1162,1302 Kern St,430485,1,1,3,3054550,Normal,2,-1.0,25,132500,Single Family Home,1426.0,61761
+1163,1241 Lodge Pole Ln,1207564,3,1,4,1207437,Normal,3,-1.0,30,269500,Single Family Home,3354.0,61761
+1164,2285 Elwood Ln,1613798,2,0,3,1571726,Normal,2,-1.0,29,214000,Single Family Home,2928.0,61761
+1165,1018 Crooked Stick Ln,192211,2,1,4,1280142,Normal,2,-1.0,23,192000,Single Family Home,2640.0,61761
+1166,3180 Shepard Rd,15043,2,1,4,1295017,Normal,2,-1.0,20,189900,Single Family Home,2922.0,61761
+1168,1301 Beacon Hill Ct,1295133,2,1,2,1295017,Normal,2,-1.0,24,139900,Single Family Home,1624.0,61761
+1169,2923 Buffalo Ln,523649,2,1,4,1295017,Normal,3,-1.0,26,249900,Single Family Home,3558.0,61761
+1170,1032 Stags Leap Rd,1346837,2,0,3,1280142,Normal,2,-1.0,30,259900,Single Family Home,3120.0,61761
+1171,3002 Grey Hawk Dr,1571752,3,1,5,1571726,Normal,3,-1.0,7,258800,Single Family Home,3580.0,61761
+1172,406 S Linden St,1855850,1,0,2,1280142,Normal,1,-1.0,1,79900,Single Family Home,725.0,61761
+1173,1515 Belclare Rd,283157,3,1,2,1207437,Normal,2,-1.0,29,229990,Single Family Home,3960.0,61761
+1174,1116 Travertine Rd,1279681,3,0,3,1571726,Normal,3,-1.0,17,349900,Single Family Home,3024.0,61761
+1175,2714 Shepard Rd,1279681,2,1,3,1571726,Normal,2,-1.0,1,287900,Single Family Home,3030.0,61761
+1176,409 Bradley Ln,2688224,2,0,3,1571726,Normal,2,-1.0,30,159000,Single Family Home,1523.0,61761
+1177,402 Ironwood,1501366,2,1,4,3054550,Normal,3,-1.0,28,255000,Single Family Home,3712.0,61761
+1178,801 Dresser Dr,1938118,3,1,5,1207437,Normal,2,-1.0,26,233900,Single Family Home,3200.0,61761
+1179,2972 Three Eagles St,43657,3,1,4,1207437,Normal,2,-1.0,22,229500,Single Family Home,3120.0,61761
+1180,1007 Canyon Creek Rd,1346837,3,0,3,1280142,Normal,2,-1.0,30,189900,Single Family Home,2564.0,61761
+1181,1413 Hull St,1221216,2,1,3,1280142,Normal,2,-1.0,30,139900,Single Family Home,2883.0,61761
+1182,1412 Chadwick Dr,1194290,2,1,4,1571726,Normal,2,-1.0,30,169900,Single Family Home,2448.0,61761
+1183,35 Payne Pl,1193279,1,0,3,1571726,Normal,1,-1.0,17,129900,Single Family Home,2300.0,61761
+1185,1615 N School St,591989,1,0,2,1280142,Normal,1,-1.0,28,95000,Single Family Home,1050.0,61761
+1186,201 Keiser Ave,2046247,1,1,3,712753,Normal,2,-1.0,14,134900,Single Family Home,1600.0,61761
+1187,1208 Hanson Dr,1548431,2,2,4,1280142,Normal,2,-1.0,30,204000,Single Family Home,3250.0,61761
+1188,410 Gambel Ct,2206294,2,1,3,1280142,Normal,2,-1.0,25,225000,Single Family Home,2808.0,61761
+1189,106 E Cypress St,7995,2,0,3,3054550,Normal,2,-1.0,30,114900,Single Family Home,2143.0,61761
+1190,148 Cassidy Rd,1362683,3,0,3,712753,Normal,2,-1.0,25,187000,Single Family Home,2428.0,61761
+1192,1115 E Shelbourne Dr,5295,2,1,3,1207437,Normal,2,-1.0,26,114000,Single Family Home,2748.0,61761
+1193,7 Clinton Pl,420364,2,0,3,1280142,Normal,1,-1.0,24,148900,Single Family Home,2040.0,61761
+1194,2925 E Raab Rd,43657,2,1,3,1207437,Normal,2,-1.0,26,198900,Single Family Home,2808.0,61761
+1195,1404 Shannon Dr,7995,3,1,4,3054550,Normal,2,-1.0,30,209900,Single Family Home,2730.0,61761
+1196,801 Broadway Ave,692040,2,1,4,1295017,Normal,2,-1.0,30,254900,Single Family Home,3795.0,61761
+1198,204 Field,1388808,3,0,3,712753,Normal,2,-1.0,30,179900,Single Family Home,2668.0,61761
+1199,920 N Fell Ave,1687774,1,0,3,1571726,Normal,1,-1.0,26,105000,Single Family Home,1311.0,61761
+1200,1507 Ironwood Cc Dr,1207553,4,0,4,712753,Normal,2,16117.2,30,273000,Single Family Home,4043.0,61761
+1201,2237 Dawson Dr,1231308,2,0,4,1295017,Normal,2,-1.0,29,199000,Single Family Home,2756.0,61761
+1202,1114 Chippewa St,5295,2,0,4,1207437,Normal,2,-1.0,24,143900,Single Family Home,2304.0,61761
+1203,4 Norwood Ave,2299014,1,0,3,1571726,Normal,1,-1.0,18,99900,Single Family Home,814.0,61761
+1204,1504 Biltmore Ct,1231308,3,1,5,1295017,Normal,3,-1.0,30,249900,Single Family Home,3322.0,61761
+1205,1003 Beech St,1118829,2,0,3,1571726,Normal,2,-1.0,30,138900,Single Family Home,1755.0,61761
+1206,300 Basswood Ln,4167,3,0,3,1207437,Normal,2,-1.0,23,215000,Single Family Home,2976.0,61761
+1207,901 Apple St,7995,3,0,3,3054550,Normal,2,-1.0,30,139900,Single Family Home,2388.0,61761
+1208,1018 Granite Way,692040,3,1,4,1295017,Normal,3,-1.0,30,299900,Single Family Home,3067.0,61761
+1209,3448 Horse Creek Rd,5187,2,1,3,1571726,Normal,2,-1.0,25,169900,Single Family Home,2470.0,61761
+1210,403 Oak,1279779,2,0,4,-1,Normal,2,8113.0,6,146000,Single Family Home,1350.0,61761
+1211,1245 Duck Horn Dr,420364,3,1,5,1280142,Normal,3,-1.0,34,289900,Single Family Home,3422.0,61761
+1212,1111 E Shelbourne Dr,1221216,2,1,3,1280142,Normal,2,-1.0,28,114000,Single Family Home,2748.0,61761
+1213,116 W Cypress St,1778205,2,0,3,1571726,Normal,1,-1.0,11,119000,Single Family Home,2946.0,61761
+1214,1203 Ironwood,1279681,2,1,4,1571726,Normal,2,-1.0,30,245000,Single Family Home,3420.0,61761
+1215,2432 Corinth Ln,1345180,3,0,4,-1,Normal,2,-1.0,24,272900,Single Family Home,3250.0,61761
+1216,1013 Teegan St,1279779,3,1,4,-1,Normal,2,4800.0,6,169900,Single Family Home,2880.0,61761
+1217,1610 Ashbrook Ct,1416095,3,1,4,1571726,Normal,2,-1.0,30,229900,Single Family Home,3240.0,61761
+1218,301 N Towanda Ave,1295099,1,1,4,1295017,Normal,1,-1.0,19,114900,Single Family Home,1764.0,61761
+1219,331 Fieldcrest Ct,1805631,3,0,3,1571726,Normal,2,-1.0,30,183900,Single Family Home,2749.0,61761
+1220,1709 Fraser Dr,523649,2,1,4,1295017,Normal,2,-1.0,27,244900,Single Family Home,3664.0,61761
+1221,1802 Johnson Dr,964233,2,0,5,1571726,Normal,1,6534.0,14,84900,Single Family Home,2008.0,61761
+1222,2725 Sedona Dr,21881,3,0,4,1571726,Normal,3,-1.0,29,309900,Single Family Home,3400.0,61761
+1223,1911 Park West Dr,744586,2,1,3,3054550,Normal,2,-1.0,30,144900,Single Family Home,1710.0,61761
+1224,815 Smith Dr,2259541,3,1,4,1571726,Normal,2,-1.0,2,252000,Single Family Home,4247.0,61761
+1225,1624 Cheyenne Ln,1708364,3,0,3,3054550,Normal,4,-1.0,1,329900,Single Family Home,3760.0,61761
+1227,912 S Linden St,1033282,4,0,4,1207437,Normal,3,-1.0,21,139000,Single Family Home,3254.0,61761
+1228,305 Columbia Dr,1548431,2,0,3,1280142,Normal,1,-1.0,28,130000,Single Family Home,1237.0,61761
+1229,1313 Dillon Dr,1207547,1,0,3,1207437,Normal,1,-1.0,27,118900,Single Family Home,1168.0,61761
+1230,404 E Lincoln St,-1,2,0,3,-1,Normal,1,8276.0,22,129000,Single Family Home,2288.0,61761
+1231,1004 S University St,1887423,1,0,2,1207437,Normal,1,-1.0,15,94900,Single Family Home,1645.0,61761
+1233,1107 Asbury Farms Cc Ct,2259541,2,2,4,1571726,Normal,2,-1.0,30,267000,Single Family Home,3859.0,61761
+1234,1028 Stags Leap Rd,1346837,2,0,3,1280142,Normal,2,-1.0,30,254900,Single Family Home,3154.0,61761
+1235,702 S Fell Ave,71546,2,0,4,1295017,Normal,1,-1.0,30,134900,Single Family Home,3169.0,61761
+1236,2995 Wolf Creek Ln,804479,3,1,5,1571726,Normal,2,-1.0,30,242900,Single Family Home,3024.0,61761
+1237,2264 Heather Ridge Dr,1501366,3,1,5,3054550,Normal,3,-1.0,29,269900,Single Family Home,3955.0,61761
+1238,1100 Whitaker St,5295,2,0,3,1207437,Normal,2,-1.0,19,141900,Single Family Home,2160.0,61761
+1239,1509 Ironwood Dr,43657,2,1,4,1207437,Normal,3,-1.0,20,254500,Single Family Home,3700.0,61761
+1241,1218 Searle Dr,5295,1,1,3,1207437,Normal,1,9148.0,29,135900,Single Family Home,1608.0,61761
+1242,10 Payne Pl,860512,1,0,2,712753,Normal,1,-1.0,30,123900,Single Family Home,2222.0,61761
+1243,1511 Ironwood,430485,2,1,4,3054550,Normal,2,-1.0,30,239500,Single Family Home,3271.0,61761
+1244,807 Dresser Dr,523674,2,2,4,712753,Normal,2,-1.0,29,225000,Single Family Home,3180.0,61761
+1245,1629 Hovey Ave,2299014,2,1,3,1571726,Normal,2,-1.0,25,148000,Single Family Home,2481.0,61761
+1247,1026 Stags Leap Rd,1346837,2,1,4,1280142,Normal,2,7405.0,30,259900,Single Family Home,3241.0,61761
+1248,2348 Cascade Ct,861956,2,0,3,712753,Normal,2,-1.0,28,259900,Single Family Home,4264.0,61761
+1249,1081 Canyon Creek Rd,1222389,2,1,4,1280142,Normal,2,-1.0,27,217500,Single Family Home,3004.0,61761
+1250,1058 Mugho Ct,744586,4,0,5,3054550,Normal,2,-1.0,30,429900,Single Family Home,4320.0,61761
+1251,1210 Duck Horn Dr,1450930,2,1,4,1571726,Normal,3,-1.0,30,269900,Single Family Home,3217.0,61761
+1252,24 Broadway Pl,1231308,1,1,3,1295017,Normal,1,-1.0,29,139900,Single Family Home,1839.0,61761
+1253,400 Plumage Ct,1207564,2,2,4,1207437,Normal,2,-1.0,30,224900,Single Family Home,3218.0,61761
+1258,1425 Hanson Dr,15043,2,1,3,1295017,Normal,2,-1.0,19,139900,Single Family Home,1872.0,61761
+1259,2440 Corinth Ln,1365275,2,1,4,1207437,Normal,2,-1.0,25,274900,Single Family Home,3142.0,61761
+1260,2740 Sedona Dr,1346837,2,0,3,1280142,Normal,3,10454.4,30,274900,Single Family Home,3404.0,61761
+1261,305 Gambel Ct,430485,3,1,4,3054550,Normal,2,-1.0,30,224900,Single Family Home,3436.0,61761
+1262,2755 Sedona Dr,1346837,2,0,3,1280142,Normal,3,10018.8,30,274900,Single Family Home,3370.0,61761
+1263,310 Thicket Pt,1220379,3,0,4,1295017,Normal,2,-1.0,30,249900,Single Family Home,3088.0,61761
+1264,1014 Granite Way,430485,3,1,5,3054550,Normal,3,-1.0,30,314000,Single Family Home,3066.0,61761
+1265,2 Thomas Dr,-1,4,1,4,-1,Normal,2,15245.999999999998,1,342000,Single Family Home,4628.0,61761
+1266,1815 Taft Dr,5184,1,1,3,3054550,Normal,1,-1.0,30,129900,Single Family Home,1537.0,61761
+1267,1706 Fraser Dr,2046247,3,1,5,712753,Normal,3,-1.0,21,263900,Single Family Home,3779.0,61761
+1269,1414 Chadwick Dr,1530743,1,1,3,712753,Normal,2,-1.0,27,144400,Single Family Home,1711.0,61761
+1270,1312 Courtland Ave,21881,2,0,3,1571726,Normal,2,-1.0,22,159900,Single Family Home,1504.0,61761
+1271,1024 Stags Leap Rd,1346837,3,0,4,1280142,Normal,2,-1.0,30,229900,Single Family Home,2216.0,61761
+1272,304 Margaret Ave,1416095,1,1,3,1571726,Normal,1,-1.0,30,137500,Single Family Home,2580.0,61761
+1273,3511 Saint Jean Rd,517390,2,1,4,1295017,Normal,2,-1.0,30,227900,Single Family Home,3576.0,61761
+1274,1625 Erin Dr,1200611,2,1,5,1571726,Normal,2,-1.0,30,124900,Single Family Home,2000.0,61761
+1277,1300 Dalton Dr,7995,1,0,3,3054550,Normal,1,-1.0,30,99900,Single Family Home,925.0,61761
+1278,1751 Lacebark Way,168825,2,0,2,1295017,Normal,2,-1.0,2,292000,Single Family Home,3418.0,61761
+1279,1301 Petaluma Dr,21881,2,0,3,1571726,Normal,2,-1.0,27,239900,Single Family Home,3036.0,61761
+1280,1002 S University St,591989,2,0,2,1280142,Normal,1,-1.0,23,75000,Single Family Home,2330.0,61761
+1281,1755 Lacebark Way,1523933,2,0,2,1295017,Normal,2,-1.0,23,305000,Single Family Home,3418.0,61761
+1282,1403 Monterey Pine Dr,1523933,3,0,3,1295017,Normal,2,-1.0,17,295000,Single Family Home,3180.0,61761
+1283,1343 Pine Forest Dr,1523933,2,0,2,1295017,Normal,2,-1.0,1,267000,Single Family Home,3180.0,61761
+1284,1347 Pine Forest Dr,1523933,2,0,2,1295017,Normal,2,-1.0,1,289000,Single Family Home,3418.0,61761
+1285,1345 Pine Forest Dr,1523933,2,0,2,1295017,Normal,2,-1.0,1,285000,Single Family Home,3180.0,61761
+1286,1200 Maplewood Dr,1200611,2,0,3,1571726,Normal,2,-1.0,22,144900,Single Family Home,2378.0,61761
+1291,2007 Bramblewood Cc Ct,304379,2,1,4,712753,Normal,2,-1.0,30,244900,Single Family Home,3647.0,61761
+1293,445 S Adelaide St,1295083,2,0,3,1295017,Normal,2,-1.0,27,134500,Single Family Home,1854.0,61761
+1294,1825 Truman Dr,1548431,2,0,4,1280142,Normal,1,-1.0,28,113500,Single Family Home,1716.0,61761
+1295,2011 Marina Dr,1117728,3,0,3,1571726,Normal,2,-1.0,14,154900,Single Family Home,2860.0,61761
+1296,902 N Linden St,591989,2,1,4,1280142,Normal,2,-1.0,25,110000,Single Family Home,2467.0,61761
+1297,1418 Montgomery St,7995,3,1,3,3054550,Normal,2,-1.0,30,135000,Single Family Home,2883.0,61761
+1310,2810 Shepard Rd,579783,3,1,4,1571726,Normal,2,-1.0,30,245500,Single Family Home,3320.0,61761
+1311,903 W College Ave,591989,3,1,4,1280142,Normal,1,-1.0,26,130000,Single Family Home,2700.0,61761
+1312,407 Bobwhite Way,1292818,2,0,3,1295017,Normal,2,-1.0,28,245900,Single Family Home,3088.0,61761
+1313,1227 Cake Bread Rd,1365275,3,1,5,1207437,Normal,3,-1.0,30,344900,Single Family Home,3503.0,61761
+1314,1021 Hovey Ave,1265113,1,0,3,1571726,Normal,1,-1.0,20,79500,Single Family Home,2018.0,61761
+1315,1315 Hanson Dr,1704314,2,1,4,712753,Normal,2,-1.0,23,155000,Single Family Home,2316.0,61761
+1319,402 E Summit St,1118829,2,0,3,1571726,Normal,2,-1.0,23,123000,Single Family Home,2354.0,61761
+1320,405 Normal Ave,2046247,3,1,8,712753,Normal,1,-1.0,1,525000,Single Family Home,2850.0,61761
+1321,17 Broadway Pl,2705739,2,1,3,-1,Normal,1,-1.0,13,149990,Single Family Home,2540.0,61761
+1322,508 E Willow St,21881,1,0,1,1571726,Normal,1,-1.0,13,54900,Single Family Home,515.0,61761
+1323,2617 Limestone Ct,911852,3,1,5,1280142,Normal,3,-1.0,29,318000,Single Family Home,3267.0,61761
+1324,109 N Coolidge St,182757,1,0,4,1571726,Normal,1,-1.0,20,114900,Single Family Home,1898.0,61761
+1326,501 Bradley Ln,21881,1,0,3,1571726,Normal,1,-1.0,30,124900,Single Family Home,2684.0,61761
+1327,101 N Adelaide St,55767,2,0,3,-1,Normal,1,-1.0,5,169900,Single Family Home,1894.0,61761
+1328,1820 Thicket Pt,875746,3,1,5,712753,Normal,3,-1.0,17,239900,Single Family Home,3726.0,61761
+1329,508 Manchester Rd,1544358,1,0,2,-1,Normal,2,-1.0,14,119900,Single Family Home,2298.0,61761
+1335,1207 N Oak St,5174,2,2,3,1207437,Normal,2,-1.0,25,189800,Single Family Home,3824.0,61761
+1338,2612 Limestone Ct,1279681,3,0,3,1571726,Normal,3,-1.0,30,294900,Single Family Home,2800.0,61761
+1339,807 Table Rock Cir,1222389,2,0,2,1280142,Normal,2,-1.0,28,349900,Single Family Home,3600.0,61761
+1341,1324 Bryce Ct,392860,3,0,4,1207437,Normal,2,-1.0,22,235900,Single Family Home,2872.0,61761
